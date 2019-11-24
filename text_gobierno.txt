@@ -1,0 +1,1512 @@
+El siguiente material se reproduce con fines estrictamente académicos y es
+para uso exclusivo de los estudiantes de la materia Introducción a la
+Ciencia Política de la Facultad de Derecho y Ciencias Sociales de la
+Universidad Icesi, de acuerdo con el Artículo 32 de la Ley 23 de 1982. Y con
+el Artículo 22 de la Decisión 351 de la Comisión del Acuerdo de Cartagena.
+ARTÍCULO 32:
+“Es permitido utilizar obras literarias o artísticas o parte de ellas, a título de
+ilustración en obras destinadas a la enseñanza, por medio de publicaciones,
+emisiones o radiodifusiones o grabaciones sonoras o visuales, dentro de los
+límites justificados por el fin propuesto o comunicar con propósito de
+enseñanza la obra radiodifundida para fines escolares educativos,
+universitarios y de formación personal sin fines de lucro, con la obligación de
+mencionar el nombre del autor y el título de las así utilizadas”.
+Artículo 22 de la Decisión 351 de la Comisión del Acuerdo Cartagena.
+ARTÍCULO 22:
+Sin prejuicio de lo dispuesto en el Capítulo V y en el Artículo anterior, será
+lícito realizar, sin la autorización del autor y sin el pago de remuneración
+alguna, los siguientes actos:
+b) Reproducir por medio reprográficos para la enseñanza o para la
+realización de exámenes en instituciones educativas, en la medida justificada
+por el fin que se persiga, artículos lícitamente publicados en periódicos o
+colecciones periódicas, o breves extractos de obras lícitamente publicadas, a
+condición que tal utilización se haga conforme a los usos honrados y que la
+misma no sea objeto de venta o transacción a título oneroso, ni tenga directa
+o indirectamente fines de lucro;...”.
+INTRODucelON
+A LA CIENCIA
+POllTICA
+Julio Pinto (Comp,ilador)
+Han colaborado en esta obra:
+Juan Manuel Abal Medina, Matías Barroetaveña,
+Andrés Malamud, SoBa Respuela y Gerardo
+Strada Sáenz. (Miembros de la Cátedra).
+y dos profesores de la Carrera de Ciencia Política.
+Franco Castiglioni e Hipólito Orlandi.
+EDITORIAL UNIVERSITARIA DE BUENOS AIRES
+Diseño de tapa: Carlos Pérez Villamil
+l Il1 edición: septiembre 1995 (2.000 ejemplares)
+lIll reimpresión: abril 1996 (2.000 ejemplares)
+EUDEBA S.E.M.
+Fundada por la Universidad de Buenos Aires
+No se permite la reproducción total o parcial de este libro, ni su almacenamiento en un sistema
+informático, ni su transmisión en cualquier forma o por cualquier medio, electrónico, mecánico,
+fotocopia u otros métodos, sin el permiso previo de sus editores.
+© 1995
+EDITORIAL UNIVERSITARIA DE BUENOS AIRES
+Sociedad de Econom{a Mixta
+Rivadavia 1571/73
+1033 Buenos Aires
+Hecho el depósito que marca la ley 11.723
+ISBN 950-23-0610-4
+IMPRESO EN LA ARGENTINA - PRINTED IN ARGENTINA
+CAPÍTULo 5
+EL GOBIERNO
+por Hipólito Orlandi* y Javier Zelaznik**
+1 Introducción
+La idea de gobierno es, sin duda, una de las que posee mayor antigüedad
+y centralidad dentro de la historia del pensamiento político. Esto no es casual
+ya que se encuentra estrechamente relacionada con la definición de la política.
+Si consideramos a ésta, básicamente, como una relación de poder, el VÍnculo
+gobierno/política se esclarece en tanto el primero de los conceptos designa
+el centro a partir del cual se ejerce el poder sobre una sociedad. Obviamente
+el concepto de política posee una amplitud que excede cualquier idea simplificada
+de ejercicio del poder. Pero aunque la diferenciación institucional,
+producto del proceso de modernización, haya ampliado notablemente la cantidad
+de estructuras y procesos denotados por la idea de política, estos se sitúan,
+sin embargo, más alejados con respecto a su corazón: el gobierno. Como
+señala Cotta, "pueden faltar los partidos, los parlamentos, las elecciones, los
+aparatos burocráticos desarrollados, pero no una estructura de gobierno1".
+Esto lo revelan ya las etimologías de "gobierno", "política" y ''poder''. "Política"
+deviene del adjetivo griego politikós, que significa todo lo que se refiere
+a la ciudad (la polis) y a su gobierno. En latín politice ya era el arte, doctrina
+u opinión referente al gobierno de los Estados. Por su parte, politeia
+era la configuración o estructura de la polis, la ciudad bien ordenada o el conjunto
+de sus magistraturas.
+El "poder" (dellatínpotere, que significa las facultades expeditas o la po-
+*UBA.
+** UBA.
+1 Cotta, Maurizio: "Los gobiernos" en Pasquino, Gianfranco y otros: Manual de Ciencia Política,
+Madrid, Alianza, 1988, pág. 312.
+211
+tencia para hacer algo) era definido como el conjunto de los medios quepermiten
+conseguir los efectos deseados. Es político cuando se refiere al poder
+de dirigir, al poder de los hombres sobre otros hombres (no el del hombre sobre
+la naturaleza), de manera tal que involucre a toda la comunidad. Se trata,
+por lo tanto, esencialmente de una "relación de dirección" entre soberano
+y súbditos, entre quien manda y quien obedece, entre gobernantes y gobernados.
+En el nuestro, como en casi todos los idiomas, "poder" significa, sencillamente,
+"gobierno de un país"2.
+Por su parte, la palabra griega kybernao -de la que deriva gobiernosignifica
+diri ir con el timón, aludiendo a la docilidad de la nave al timón (go\,
+p., berna e o go erna o. sta raíz transmite de modo inmejorable la-imagen
+~~j!' más usada para caracterizar al gobierno: la del timonel de la nave, y má~
+~Ú'd"l' precisamente al buen gobierno: la del timonel conduciendo la nave a buen
+puerto. Esta idea llevaba a identificar a quien se dedicaba a la "política" y a
+quien ejercía el "poder" con quien detentaba el "gobierno"3. En la Edad Media
+el término gubernaculum era identificado con el de política4• La posterior
+evolución del concepto gobierno, especialmente con el advenimiento de la democracia,
+multiplicó las imágenes, incorporando al pueblo (soberano) como
+eje de las mismas (la idea de voluntad general), y a los gobernantes, como
+meros representantes. El gobierno en verdad tiene una "función identificadora
+de la actividad política, {es} el núcleo irreductible, sin el cual parece difícil
+pensar en la dimensión propia de lo político"5.
+Pero esto no es más que un abordaje preliminar al fenómeno gobierno. Sin
+duda una de las cuestiones que más enrarece el aire terminológico de la ciencia
+política es la falta de acuerdo en cuanto al significado de sus conceptos y,
+más precisamente, la imprecisión y ambigüedad con que se usan. El origen de
+tales malentendidos es claro: en la medida en que las definiciones no son obvias,
+que los nombres no son arquetipo de las cosas sino que se construyen por
+un proceso de abstracción y generalización de determinados elementos de la
+realidad (los conceptos no son la realidad en sí misma), la connotación del concepto
+dependerá de la subjetividad de quien lo construya, y del grado de relevancia
+que les asigne a los diferentes elementos que lo componen.
+El concepto de gobierno no está exento de este problema. No sólo por la
+falta de respuesta unánime acerca de los elementos que lo constituyen, sino
+2 Asimismo, "poder temporal", "poderes públicos", etc. (véase Diccionario de la Lengua Española,
+Real Academia Española, Madrid, 1992).
+3 Véase Coraminas, Joan: Diccionario Etimológico de la Lengua Castellana, Madrid, 1983 y
+Diccionario de la Lengua Española, op. cit.
+4 Sartori, Giovanni: La política. Lógica y método en las ciencias sociales, México, Fondo de
+Cultura Económica, 1987, pág. 206.
+5 Cotta, M.: Los gobiernos, op. cit., pág. 311.
+212
+principalmente por la falta de consenso acerca del carácter o la naturaleza
+de esos elementos. Cuando pensamos en el gobierno los interrogantes que
+surgen son, entre otros: ¿quiénes gobiernan? (poder personalizado), ¿cómo se
+administra eficientemente? (función de administración), ¿para qué se gobierna?
+(función de control), ¿cómo se gobierna? (poder legítimo institucionalizado).
+A partir de esto es posible identificar, por lo menos, tres perspectivas para
+acercarse al fenómeno del gobierno.
+En la primera de ellas, el gobierno ha sido identificado como el conjunto
+de individuos gue ejercen el poder de autoridad en un sistema político, esto
+es, las autoridades o, mejor aún, los titulares de los roles que poseen autoridad.
+El concepto aquí está centrado en determinados actores mdlVldurues
+(lOS políticos) o colectivos (los partidos políticos) que ocupan los puestos de liderazgo
+oficial.
+En segundo lugar, el gobierno es visto en la perspectiva de actividad: ª- t>EF
+gobierno como la actividad de conducir una sociedad. Es ésta la acepción más 2-
+antigua del término, que encuadra con su etimología. En este sentido el concepto
+posee una faz meramente funcional.
+Finalmente, desde una tercera perspectiva, el término gobierno hace refe- ~t- '3>
+rencia a las instituciones a artir de la . a autoridad. Concretamente,
+a las es curas de-toma de deCisIones políticas, o a parte de ellas.
+En las secciones siguientes se abordará la problemática del gobierno
+desde cada una de estas perspectivas.
+1.1 EL GOBIERNO COMO CONJUNTO DE ACTORES
+~n esta perspectiva el foco está puesto en el conjunto de personas que
+ejercen el poder político y, en consecuencia, determinan la orientación política
+de una sociedad', y se pone en evidencia la importancia del estudio de las
+élites políticas (o de parte de ellas). Este sentido de la expresión "2'ohierno" "><..
+no es el que más se ajusta al estudio que aquí queremos hacer, siendo más
+apropiado emplear la expresión "e-obernantes". Nótese que, en tanto actores,
+el gobierno (los gobernantes) se refiere a los miembros de un determinado
+poder: el Ejecutivo. Es en este sentido que puede sostenerse que el gobierno
+"es una red de funcionarios públicos íntimamente ligados al ejecutivo, que
+participan en los procesos de diseño y ejecución de políticas como miembros
+de dicha red, y cuya permanencia es inseparable de la del ejecutiv06".
+Interesa sin embargo a nuestro estudio, más que esos actores en sí, la
+6 Baloyra, Enrique: "Argentina: transición o disolución" en M. VV.: Lecciones para demócratas
+en transición, Buenos Aires, Belgrano, 1987.
+213
+cuestión del poder de autoridad. El mando efectivo de quienes gobiernan es
+esencialmente una cuestión de autoridad de los sujetos titulares del poder,
+núcleo gobernante al que se presta obediencia. En una primera aproximación,
+no es una cuestión de normas sino de personas, un poder de autoridad
+subjetivo. Para Hauriou, la autoridad es "una energía espiritual debida a
+una cierta calidad o valor de la voluntad y de la inteligencia que pern1ite a
+una élite política asumir la empresa del gobierno del grupo, haciéndose obedecer
+por los demás hombres en nombre del orden (. .. ) no es fuerza material
+ni cuantitativa que pueda medirse o contarse; es una energía puramente
+cualitativa que únicamente puede estimarse". Y agrega que ese valor del que
+gobierna, "sentido más o menos vivamente por los gobernados, es lo que les
+inspira confianza"7. Por eso se ha dicho que no manda -gobierna- quien
+quiere sino quien puede, quien recibe obediencias.
+Sin embargo, el poder de autoridad es mucho más que "una energía espiritual".
+Como sostiene Max Weber, una organización política es una asociación
+de dominación cuya existencia "dentro de un ámbito geográfico determinada,
+está garantizada de un modo continuo por la amenaza y aplicación de
+la fuerza fisica por parte de su cuadro administrativo''9. En este sentido, el gobierno
+político emerge como la más significativa de las formas de dominación.
+Es indudable que existe una relación entre gobierno y fuerza en la medida
+en que la característica distintiva del gobierno político es el control de
+los instrumentos de coerción (policía y fuerzas armadas). Sin ese control, las
+acciones de gobierno pierden la garantía de su obligatoriedad, cayéndose en
+la ingobernabilidad o, en el caso extremo, en la anarquía. Sin embargo, no
+existe una identificación completa entre fuerza pura y poder político, en la
+medida en que éste muestra ser algo más que mera fuerza. Como señala Cotta,
+cuando la fuerza militar o la fuerza económica se traducen en formas de
+dominio político deben soportar significativas transformaciones y adaptaciones,
+relacionadas con la necesidad de dotarse de una forma política con relativa
+autonomíalO•
+De esta manera, el poder de autoridad del gobierno se encuentra en algún
+punto intermedio de un largo continuo cuyos polos son, por una parte,
+el poder espiritual, y por la otra, el poder coercitivo. Pero el hecho de que el
+recurso a la fuerza sea una eventualidad latente genera un interrogante cen-
+7 Hanriou, M.: Principios de Derecho Público y Constitucional, Madrid, pág. 18l.
+s Orlandi, Héctor: Principios de ciencia política y teoría del Estado, Plus Ultra, Buenos Aires,
+1985, pág. 190.
+9 Weber, Max: Economía y sociedad, Fondo de Cultura Económica, Buenos Aires, 1992, págs.
+43-45.
+10 Cotta, M.: Los gobiernos, op. cit., págs. 313 y 314.
+214
+tral: ¿quién puede gobernar en un régimen político moderno? o, en otras palabras,
+¿a quiénes se les reconoce ese derecho? Si bien las respuestas pueden
+variar en los distintos regímenes políticos, existen dos núcleos que poseen
+una gran pernlanencia y que no pueden eludirse, referidos a la legitimación
+y la institucionalidad del poder político del gobierno.
+El problema de la legitimidad del poder se coloca en el centro de la relación
+entre gobernantes y gobernados, y se refiere al apoyo a través del cual
+estos últimos confieren autoridad a determinadas personas, influyendo en el
+orden y la paz de la sociedad, y en la normalidad y estabilidad del gobierno.
+En las sociedades modernas es posible encontrar tres dimensiones de la legitimidadll
+.
+En priI!}~:r:l"l!@L la diJ!Lensión "genética" de la legi.t.?!!l.Ülª-g,J~ferida a la Con -o
+m_anera en ~ 10~".[<?b~l'Ilantes llegan al poder. En este sentido, la monar- SE {tV¡
+quía hereditaria fue durante siglos, y aun en épocas de absolutismo monárquico,
+tan legítima como la elección popular en las democracias modernas; lo
+central es que los gobernados aprueban el mecanismo de designación de las
+autoridades, cualquiera sea éste. En las democracias, la legitimidad genética
+es concretada mediante la ratificación periódica a través del voto del pueblo
+que, en su faz de cuerpo electoral, exterioriza su opinión.
+En S~}!.I!f1.2JUZ~.1-!ªg.j!11..ft.n§ión "funcional" eje lqJegitimidag,JleEitimi- Lrc"j (/1
+dad por resultados) que caracteriza a todo sü:¡tema político, sea cual fuere su
+régimen político, y se relaciona con el nivel de eficacia y efectividad del go- q
+bierno. Aquí, la obediencia está fundamentada en la capacidad del gobierno J para satisfacer las demandas de la comunidad o, al menos, para cumplir con
+las funciones que asume como propias. En este sentido es notable la forma
+en que la idea de ingobernabilidad está fuertemente asociada a la de pérdida
+de la capacidad de producir los resultados esperados.
+Finalme!J.~~L1~4i!1:l:I:?1i:~ió1!_"~~g!!!~ de la _fegit~~i.c!u:cJ. (legitimidad racio- e" A t'/v
+nal-legal). La legalidad, como señala Weber, se convierte en el modo de legitimidad
+propio de los sistemas políticos modernos (dominación racional
+legal); su modalidad es la juridicidad de la legitimidad política que la institucionaliza,
+es decir, que objetiva el poder político en el orden y la organización
+de las instituciones. En este punto, el problema de la legitimidad
+se une con el de la institucionalidad del poder, en tanto ambas (legalidad y
+legitimidad) tienden a identificarse en períodos de normalidad yestabilidad
+de los gobiernos, mientras que se distancian en la anormalidad e inestabilidad
+institucional, recobrando la legitimidad su personalidad propia,
+más allá de su forma jurídica. En medio de la compleja relación entre fuer-
+11 A un nivel histórico y de gran abstracción (dominación), Weber identifica tres tipos de legitimidad:
+carismática, tradicional y racional-legal (Weber, M.: op. cit., págs. 170-204 y 704-716).
+215
+za y legitimación se inserta "la reglamentación jurídica del poder del gobierno"
+.12 .
+De allí surge el segundo punto central referido a quién puede gobernar:
+el carácter institucionalizado del poder de gobierno en los sistemas políticos
+modernos 13 . De esta manera, el gobierno es el poder de autoridad formalizado
+en el orden constitucional y legal (así como en ciertas prácticas que con el
+tiempo se cristalizan), quedando subordinado en su ejercicio, admínistración
+y contralor a ese ordenamiento 14 . El poder de autoridad institucionalizado
+(ejercido formalmente con sujeción a la constitución) se caracteriza por la pree
+t-:encia del principio jerárquico, es decir, por ~la supraordenación del órgano
+(-¡.J' superior con respecto al inferior en la jerarquía de poder", cuyo vértice _es _el
+..-~~~ gobierno15• Este flujo descendente de órdenes es paralelo a otro de carácter ascendente,
+referido a las responsabilidades, de manera tal que cada nivel recibe
+mandatos desde arriba, a la vez que es responsable hacia sus superiores.16
+En un gobierno institucionalizado, el acto de los gobernantes en el ejercicio
+de sus funciones es objetivo: no es tomado en nombre propio, sino de la
+autoridad conferida por el cargo en tanto organización de gobierno; y la obediencia
+es a la institución de gobierno de la que emana, tomada en su integridad.
+Aquí el poder de autoridad ya no es sólo subjetivo, no descansa solamente
+en el prestigio, la influencia individual o social, la reputación moral,
+etc., sino que pasa a ser un derecho de control político que se halla adscrito
+a un cargo, para aquellos que "se hallan investidos de sus derechos" 17 •
+..El recorrido histórico ue conduce desde la idea de obierno centrada en
+actores (poder subjetivo) a otra centrada en instituciones (po er o detivl? va
+a<m.n.-p.añado por el proceso de racionalizaciónljuridización del_poder político, y
+se cristaliza en las ideas de "Estado de derecho", "gobierno de la ley" lí finalmente
+en la de " obierno constitucional". De alguna manera, la juridización
+del poder opera a través de un o e proceso mediante el cual impone limitaciones
+al gobierno, pero al mismo tiempo le otorga un margen más amplio de
+12 Cotta, M.: op. cit., pág. 314.
+13 El vinculo de este fenómeno con la idea weberiana de dominación racional-legal es evidente.
+14 Rocknian, Bert A.: "Gobierno" en Bogdanor, Vernon (ed.): Enciclopedia de las Instituciones
+PoUticas, Alianza, Madrid, 1991.
+15 Heller, Herman: Teoria del Estado, Fondo de Cultura Económica, Buenos Aires, 1988, pág.
+264.
+16 Deutsch, Karl: PoUtica" gobierno, Fondo de Cultura Económica, Madrid, 1976, pág. 223.
+17 Mac Iver-Page: Sociologia¡ Thcnos, Madrid. En este sentido es posible distinguir entre estructuras
+de autoridad (las instituciones que confieren poder) y las autoridades (los titulares de los
+roles de autoridad), quedando claro que el poder es del cargo y s610 pasa a la persona en la medida
+que 10 ocupa (véase la sección lA de este capítulo).
+216
+legitimación. De esta manera, la institucionalización del poder de autoridad remite
+a la idea de gobierno como estructura (como institución política), y reenvía
+la noción de gobierno como conjunto de actores a la teoría de las élites.
+1.2 EL GOBIERNO COMO CONJUNTO DE FUNCIONES
+La segunda de las perspectivas examinadas, a partir de las cuales es posible
+abordar el problema del gobierno, se relaciona con su identificación en
+tanto conjunto de funciones. En este sentido, debido a la' amplia gama de actividades
+desarrolladas, resulta escabroso especificar "la" función del gobierno.
+Son pocas las que en diferentes momentos históricos (yen diferentes puntos
+geográficos) no hayan sido consideradas como propias (legítimamente o asumiéndolas
+de hecho). De la misma manera, no existe ninguna función que haya
+sido ejecutada "exclusivamente" por el gobierno18 .
+. Antes de referirnos a las funciones del gobierno es necesario indagar en
+su naturaleza. Y en este sentido es posible remitirse a la distinción clásica
+~ntre dirección política (o, simplemente, política) y administración como tipos
+ideales19. La dirección política tiene dos caras: una de ellas se -destaca
+por su naturaleza innovadora. Como recuerda Weber, ésta surge de la íntima
+subjetividad del político, y en este sentido se caracteriza por su discrecionalidad
+y por estar sesgada por juicios de valores. La otra cara destaca su estrecha
+vinculación con la necesidad de obtener consenso y, por lo tanto, su
+marca es también la negociación, el riesgo y el acuerdo político. La decisión
+está guiada por la racionalidad política, caracterizada por la interacción entre
+diferentes sujetos (actores, instituciones, etc)20. La responsabilidad, en
+este caso, es de índole exclusivamente política. Nótese que en este sentido la
+igualdad entre e-obierno y dirección es paralela a la que existe entre falta de
+gobierno e incapacidad de mantener el orden, de resolver problemas, en fin,
+de dirigir una sociedad21.
+18 Weber, Max: "La política como vocación", en Weber, Max: El polftico y el científico, Alianza,
+Madrid, 1987, pág. 83.
+19 El origen de la distinción puede rastrearse en Wilson, Woodrow: "The Study of Administration",
+enPolitical Science Quarterly, junio de 1887. Una referencia clásica al mismo es Weber, Max,
+especialmente en Economia y sociedad, op. cit. Para referencias más recientes véanse, entre otros:
+Deutsch, K.: op. cit., págs. 218-227; Cotta, M.: op. cit. y Oszlak, Osear: Politicas públicas y regimenes
+politicos, CEDES, Buenos Aires, 1984.
+20 Véase Oszlak, O.: op. cit., págs. 10-15.
+21 Es en este sentido que un teórico del orden como Huntington ha señalado, extremando el
+argumento, que "la función del gobiemo es gobernar. Un gobierno débil, un gobierno que carece de
+autoridad, no puede cumplir esa función, y es inmoral ... " (Huntington, Samuel: El orden politico
+en las sociedades en cambio, Paidós, Buenos Aires, 1972, pág. 36).
+217
+El polo de la administración, por el contrario, aparece definido por su carácter
+repetitivo. y por el ambiente de normalidad en el que se desarrolla. debiéndose
+limitar a ejecutar decisiones ya adoptadas. Aquí la discrecionalidad
+es eliminada, así como el espacio para la innovación: como recuerda Weber,
+la administración se desarrolla "sin pasión ni prevención", ateniéndose al expediente.
+El impulso de la administración es "hallar un equilibrio entre los
+nuevos rumbos y el, a menudo, pesado residuo de los pasados compromisos
+hechos por los gobiernos anteriores"22. La racionalidad que la guía es eminentemente
+técnica y tiende a la planificación (intelección) como forma normal23.
+Aquí la responsabilidad es de orden legal.
+De esta manera la eficacia de la dirección política, ejercida por el gobierno,
+depende de la posibilidad de contar con una administración del poder especializada
+funcionalmente, lo que compete a la burocracia de la administración
+pública. Debe tenerse en cuenta también que, a su vez, el grado de eficacia
+del gobierno tiene incidencia significativa sobre la legitimación del régimen
+político y de la autoridad del gobierno (dimensión funcional" de la legitimidad)
+24. Queda claro, pues, que la visión dicotómica no puede llevarse al
+extremo: si bien es el gobierno quien tiene el papel de la dirección política, el
+aspecto de la administración desarrollado por la burocracia pública es el que
+pernlite que sus directivas tengan una aplicación concreta, el que garantiza
+que los mandatos sean llevados a la práctica25.
+Podría sostenerse, por supuesto, que la dirección política es, sin más,
+"la" función del gobierno. De hecho, los desarrollos de la teoría sistémica y .
+1 estructural-funcionalismo are ce n acercarse a ello cuando sostienen
+ij1le la función del sistema político o. en el caso de on y owe 3 e go-
+~ bierno, es el "logro de objetivos" (Parson), la "asignación de valores con autoridad"
+(Easton) o la "elaboración, aplicación y adjudicación de normas"
+(AImond y Powell)26: Sin embargo, el nivel de generalidad de tales propo-
+ªi~iºJles no nos dice nada acerca del alcance de las acciones del gobierno,
+esto...es, de la amplia gama de actividades que intenta desarrollar deJibera-
+22 Rockman, B. A.: op. cit. Deutsch, K.: op. cit., pág. 223, señala que "la maquinaria administrativa
+puede continuar funcionando por nltina (oo.) aun cuando no haya una política cuidadosamente
+planeada".
+23 Véase Oszlak, O.: op. cit., págs. 10-15.
+24 Linz, Juan J.: La quiebra de los regímenes del7UJcráticos, Alianza, Madrid, 1988.
+25 Cotta, M.: op. cit., pág. 315. Desde otra perspectiva, el carácter tajante de la dicotomía es
+criticado con el argumento de que, en realidad, la burocracia pública excede su función meramente
+administrativa para convertirse en una "arena política" en la que también se definen políticas
+públicas (véase Oszlak, O.: op. cit., págs. 15-19).
+26 Para un desarrollo de las funciones del gobierno en términos decisionales, véase Orlandi,
+Hip6lito: "Instituciones políticas de gobierno", mimeo.
+218
+damente.27 Despojado de su cariz funcionalista, el término "funciÓn", tal como
+es utilizado en este capítulo y en gran parte de la literatura politológica,
+está estrechamente relacionado con la idea de, actuación.
+En esta línea es que Cotta propone distinguir las modalidades de desarrollo
+de las funciones del gobierno a partir de dos perspectivas: una que hace
+hincapié en la diversificación o contracción de las funciones de gobierno
+(cualitativa) y otra que detecta las variaciones en el quantum de intervención
+gubernamental (cuantitativa)28. Ambas se encuentran parcialmente entrelazadas,
+y sus variaciones de un país a otro no son necesariamente sincrÓnicas.
+De hecho, a iguales referencias temporales es posible identificar países
+con una gran expansión de las funciones de gobierno (en términos cualitativos
+y/o cuantitativos) conviviendo con otros cuyos gobiernos están escasamente
+expandidos. Es importante tener presente que la atribución de funciones
+al gobierno es una cuestión que se redefine históricanlente, que depende
+de los patrones ideológicos y culturales, así como de los objetivos que
+se plantee una sociedad.
+Desde la perspectiva cualitativa cabe penetrar en los contenidos de la
+función de gobierno. Ya se ha señalado la dificultad para determinar las funciones
+específicas y propias del gobierno; sin embargo, es posible identificar
+la manera en que, con distinto recorrido de un país a otro, fue expandiéndolas
+durante los últimos siglos. Obviamente, la diferencia de regímenes políticos
+es un elemento relevante para entender las variaciones nacionales en
+cuanto a la expansión de las funciones gubernamentales. Por eso cabe aclarar
+que los desarrollos que se trazarán a continuación son pertinentes principalmente,
+aunque no únicamente, para los países que en el siglo XX evolucionaron
+dentro de los carriles de los regímenes democráticos.
+Es, posibJg,ig~Ilti..fiJ!.N~!.1.]rtº,fi.P..~ a~gQ.~-ºos J11.!!.c!,ºQ~s. Sl.l!~._ha~_ si~to
+am.p~i:'?al~~~~!l~~S'1~L~2~~O(:1"el.~~~te~~1i~?to de).a",~i9~d ~J.~ .. co- -Y
+nluIl}E~",LE2~~9.E!- Il.~CI~~!J}tenor e prODlema ae a custodIa ae un omen aso- ~
+ciativo, de la integración -incluida la contención de las tendencias a la disgregación-
+y de la salvaguardia de la paz interna) y "la tutela de la comunidad
+política frente al exterior" (el problema de la guerra y de la"pazeifernas19': En
+la medid'aen'que 'la idea de seguridad interna y externa constituye la base de
+mantenimiento de una comunidad política, el gobierno se convierte en garante
+de las mismas, pasando así a convertirse en funciones constantes.
+A pesar de su importancia, ni siquiera ellas son enteramente de su exclusividad,
+ya que históricamente es posible encontrar actores de carácter
+27 Deutsch, K.: op. cit" págs. 82-85.
+28 Cotta, M.: op. cit., págs. 318 y ss.
+2. Cotta, M.: op. cit., pág. 316.
+219
+privado encargados de garantizarlas. Ambas sólo se asocian exclusivamente
+al gobierno en la medida en que van surgiendo los modernos Estados nacionales.
+Como recuerda Heller:
+los reinos y territorios de la Edad Media eran, tanto en lo interior como en lo exterior,
+unidades de poder político, por así decirlo, sólo intermitentemente e incluso,
+durante siglos, sólo excepcionalmente ( ... ) su poder estaba limitado, en lo interno,
+por los numerosos depositarios de poderes feudales corporativos y municipales, y, en
+lo exterior, por la Iglesia y el Emperador.30
+Esta situación comienza a superarse con el proceso de centralización política
+que lleva a la creación del Estado moderno. Por este proceso, el gobierno
+(el monarca) expropia a los detentadores privados de poderes de autoridad,
+unificando tales actividades en un cuadro administrativo profesionalizado
+que confornla la burocracia estatal. Así, el monopolio del uso legítimo de la
+fuerza por parte del Estado, que marca la exclusividad del gobierno en las
+funciones de defensa y seguridad nacional (interna y externa), es sólo un producto
+histórico cristalizado, principalmente, en el moderno Estado racional31.
+Pese a las ya señaladas limitaciones del enfoque weberiano de relación
+entre poder y fuerza coercitiva, no deja de resultar ilustrativo, para darnos
+una idea de la centralidad que ocupa el monopolio de la fuerza fisica legítima
+por parte del poder político, el hecho de que las citadas funciones se asocien
+inmediatanlente a sus instrumentos armados de resolución (policía y
+fuerzas armadas). Sin embargo, ésta no es más que una modalidad de intervención
+posible, ni siquiera tiene por qué ser la principal. Respecto de la función
+de mantenimiento de la unidad interior de la comunidad política, conviene
+observar que la presencia de otras modalidades de integración distintas
+de las políticas (económicas, étnicas, lingüísticas, religiosas), puede tener
+como consecuencia la disminución o el aumento del grado de intervención del
+gobierno requerido para garantizarla. De igual modo, la particular posición
+de un país en el contexto internacional modifica el grado de intervención gubernamental
+necesario para garantizar la seguridad externa32 •
+Más apropiadanlente, puede decirse que tales funciones "están en la ba-
+30 Heller, H.: op. cit., pág. 142.
+31 Una descripción analítica de este proceso puede encontrarse en Weber, M.: El politico ... , op.
+cit., págs. 91 y sigs. Para una análisis de dicho proceso en el caso argentino remitirse a Oszlak, Osear:
+La formaci6n del Estado argentino, Belgrano, Buenos Aires, 1982.
+32 Cotta, M.: op. cit., pág. 317. Es por otra parte ilustrativa la comparación entre los Estados
+Unidos y Alemania (a principio de siglo) realizada por Max Weber, señalando que el gran territorio
+y el aislamiento del primero le permite una política exterior menos agresiva que la de una Alemania
+"que limita con tres grandes potencias continentales ( ... ) y con la mayor potencia marítima",
+derivando de ello "la necesidad de un armamentismo poderoso" (véase Weber, Max: "Alemania entre
+las grandes potencias europeas", en Weber, M.: Escritos políticos l, Folios, Buenos Aires, 1984,
+220
+se de una gama muy variada de contenidos específicos de la actividad de gobierno,
+que se distribuyen entre el polo negativo de las acciones de policía y
+el polo positivo de la previsión y provisión del moderno Estado de bienestar"
+en cuanto al mantenimiento del orden asociativo, y entre el polo negativo de
+la acción bélica y el positivo de las relaciones diplomáticas y comerciales en
+referencia a la seguridad exterior33 . De esta manera queda claro que las dos
+funciones señaladas como comunes a todos los gobiernos no son, sin embargo,
+exclusivas de ellos ni necesariamente violentas.
+Aunque el proceso de centralización política, al que se hizo referencia anteriormente,
+lleva a la creación del Estado absolutista, la progresiva diferenciación
+entre las esferas de lo público y lo privado, enraizada en el proceso de
+modernización social, termina con la creación de dos esferas de poder separadas:
+por un lado la del Estado (la del gobierno político) y por el otro, la del mercado
+(el poder económico)34. De la conjunción de ambas tendencias surge históricamente,
+aunque en diferentes momentos en los distintos países, el Estado
+mínimo. Su nombre ya expresa el carácter limitado de sus funciones: además
+de la defensa exterior-en su modalidad de fuerzas armadas y de estructura
+diplomática- y del mantenimiento del orden interno -mediante las acciones
+de policía y la administración de justicia-, existe otra función, necesariamente
+vinculada a las primeras: la extracción de recursos de la sociedad
+para sostener tales actividades (función impositiva o extractiva).
+A partir de allí, la caracterización de diferentes formas de Estado es considerada
+como el indicador que permite observar la ampliación y diversificación
+de las funciones del gobierno. Durante el siglo XX se ha evidenciado un
+notable crecimiento de las mismas, lo que ha llevado a la estructuración de
+lo que se conoce, de manera genérica, como Estado de bienestar. En éste, el
+Estado adiciona a sus actividades tradicionales otras, como la educación, la
+asistencia sanitaria, la vivienda, la seguridad social, el desarrollo de la economía,
+la producción de bienes, la búsqueda del pleno empleo, etc35
+• Las funciones
+y actividades más informales -en el sentido de no estar previstas necesariamente
+en los textos constitucionales o legales, pero que resultan obvias
+y necesarias y se las encuentra en todos los gobiernos- constituyen una
+de las partes que más se ha expandido y desarrollado, determinando la aparición
+de nuevos ministerios y departamentos de gobierno encargados de
+pág. 37 Y "Capitalismo y sociedad rural en Alemania", en Weber, M.: Ensayos de sociologia contemporánea,
+Martínez Roca, Barcelona, pág. 162.
+33 Cotta, M.: op. cit., pág. 316.
+34 Véase Strada Saenz, Gerardo: capítulo 4: "Estado y mercado".
+35 Para un desarrollo más detallado de la evoluci6n de las formas de Estado véanse Abal
+Medina (h), Juan Manuel y Matías Barroetaveña: capítulo 3: "El Estado".
+221
+ellas (confección y revisión de programas; consulta, diseño y planificación de
+políticas específicas, etcétera)36.
+En lo que respecta a la cantidad (el quantum) de gobierno, son varios los
+indicadores que se suelen utilizar, según el aspecto que se busca resaltar. Sin
+duda, el que ha sido más utilizado es la evolución del gasto público, medido
+por el presupuesto estatal. Esto es lo que Cotta denomina la traducción en
+términos de recursos monetarios de la acción de gobierno. El aumento de la
+intervención gubernamental producto de su diversificación funcional está
+asociado a un desarrollo ascendente de las necesidades presupuestarias. De
+esta manera es posible identificar la evolución del grado de intervención de
+la política (el gobierno) sobre la sociedad y sobre la economía. La composición
+interna de las partidas presupuetarias es, por otra parte, un indicador
+adicional para determinar las funciones desde el punto de vista de su contenido,
+y permite a la vez sopesarlas comparativamente a partir de los recursos
+destinados a cada una de ellas. La tendencia a largo plazo durante el presente
+siglo ha sido el aunlento del gasto público, especialmente en el período
+que se inicia en la segunda posguerra, evidenciándose una disminución de
+su crecimiento en los años 80. De alguna manera, esta evolución acompañó
+el apogeo y crisis del Estado de bienestar.
+Aunque la evolución del gasto público es un índice que permite una primera
+aproximación a la determinación del quantum de gobierno, no es posible
+reducir su acción a una dimensión monetaria. Por eso también se han
+considerado indicadores alternativos para medir el crecinriento del gobierno,
+entre los cuales se destaca el número de funcionarios públicos. El desarrollo
+de la actividad gubernamental ha sido acompañado por el desarrollo de una
+burocracia profesionalizada, lo que genera una "zona gris" en el intento de
+diferenciar con nitidez las funciones gubernamentales de dirección política
+de las funciones de la administración pública, en tanto en la cumbre jerárquica
+de los ministerios encontramos una parte significativa del funcionariado
+de carrera que tiene por misión "definir las futuras políticas alternativas,
+y asesorar a los ministros acerca de los cursos de acción presentes"37.
+Es posible extremar el argumento elaborando la distinción entre gobierno
+electo -linritado en el tiempo- y "gobierno permanente" del funcionariado
+de carrera que es el que compone y hace funcionar el brazo administrativo
+del Estad038 • Este último se halla en subordinación jerárquica respecto
+del primero, pero el gobierno electo necesita del funcionariado no solamente
+para mover ciertas maquinarias institucionales sino también, frecuente-
+222
+36 Rockman, B. A: op. cit., pág. 337.
+37 Rockman, B. A: op. cit., pág. 337.
+38 Rockman, B. A: op. cit., pág. 339.
+mente, para contar con el saber técnico especializado y con la información
+propia del "saber de la función", como lo definiera Weber~j9, De alguna manera,
+este punto remite a la interrelación entre las funciones de dirección política
+y de administración, a la que ya se ha hecho referencia,
+Como se ha señalado, ambas dimensiones de la perspectiva cuantitativa
+están íntimamente vinculadas con la expansión de las funciones gubernamentales.
+Pero tal relación va más allá en la medida en que permite medir
+el grado de eficiencia del gobierno 40 , De hecho, un aumento de la partida
+presupuestaria y/o del personal administrativo puede significar la falta de
+eficiencia en la provisión de un bien público antes que el aumento de la cantidad
+de bienes ofrecidos, y es entonces un indicador de la ineficiencia del gobierno
+antes que de su diversificación funcional, De esta manera, cualquiera
+sea la dimensión (gasto público, empleados, interacciones jerárquicas,
+etc,) o el enfoque (económico, político-institucional, etc.) que se utilice, surge
+con claridad la insuficiencia de una consideración meramente cuantitivista,
+Como balance de la evolución funcional del gobierno puede sostenerse
+que, en el último siglo, ha aumentado la cantidad y complejidad de la legislación
+-los parlamentos del siglo pasado sancionaban pocas y sencillas leyes
+frente a las muchas y de alta complejidad técnica que sancionan en el
+presente siglo-; se ha incrementado sustantivamente el nivel impositivo y
+de gasto del gobierno -especialmente con las previsiones presupuestarias
+destinadas a atender las necesidades del Estado de bienestar-, y ha crecido
+notoriamente el número de empleados gubernamentales, tendencia ésta
+que, sin embargo, está en retroceso en los últimos años.
+1.3 EL GOBIERNO COMO CONJUNTO DE INSTITUCIONES
+Enfocar al gobierno en términos institucionales requiere diferenciarlo/
+relacionarlo con algunos conceptos conexos, pero que frecuentemente
+son utilizados de manera confusa o aun como sinónimos. Se impone, entonces,
+una delimitación del concepto de gobierno con respecto a los de sistema
+político y régimen político.
+~l concepto de sistema político, referido a un conjunto de.instituciones,
+. uupos y procesos políticos caracterizados por un cierto grado de interdependencia
+recíproca, posee una reciente pero controvertida historia. Tal contro-
+39 Weber, M.: Econom{a y sociedad, op. cit., págs. 178-180.
+40 La eficacia hace referencia a la posibilidad de encontrar los medios para obtener un fin dado;
+por su parte, la eficiencia se relaciona con la utilización de los medios menos costosos para cmDplir
+con un objetivo.
+223
+versia se desata, principalmente, con la apropiación del término por una de
+las perspectivas que se dedica a su estudio, propuesta originalmente por David
+Easton41 , que se conoce como análisis sistémico. Desde entonces se ha
+tendido a homologar de manera inmediata al sistema político con la concepción
+eastoniana, esto es, con una particular visión teórica y con determinada
+metodología para afrontarlo.
+Para este enfoque de análisis, enraizado en el conductismo de la segunda
+posguerra y basado en la teoría general de los sistemas, un sistema político
+es, antes que nada, un conjunto de conductas interrelacionadas a partir
+de las cuales se asignan valores con autoridad en un sistema social. Las notas
+características del enfoque sistémico, desde el punto de vista de su metodología,
+son: a) el estudio de la política desde una perspectiva general, que
+busca precisar las características presentes en todos los sistemas antes que
+hacer referencia a casos particulares y, b) la atención a los procesos políticos,
+antes que a sus estructuras.
+Tales procesos llevan, en esta concepción, a comparar al sistema político
+con una computadora42 que procesa los inputs que activan el sistema (entradas,
+ingresos o impulsos, en su modalidad de demanda o de apoyo al sistema
+político), y los transforma, mediante los procesos de conversión, en outputs
+(salidas, resultados o respuestas, en su modalidad de decisiones políticas
+aplicables a toda la comunidad) que "digieren" los conflictos que se dan
+en la sociedad (el ambiente), y entre ésta y el sistema político. Los outputs
+pueden determinar cambios en el ambiente, los que a su vez pueden afectar
+al sistema político. Estos últimos mecanismos de ajuste permiten, entonces,
+una retroalimentación -feedback- de las presiones sobre las decisiones políticas,
+modificando o corrigiendo las demandas y apoyos a consecuencia de
+la actividad política desarrollada.
+Hay pues, un mecanismo monitor que registra las demandas y los apoyos
+de forma compleja para que "la máquina pueda activarse", y uno de conversión
+que regula el flujo de las decisiones y cambia los impulsos en respuestas
+tras un proceso de selección, limitación y reordenamiento (que se da
+alinteriQI del sistema polífiC()). Sin entbatgo, en cu.antOliTo'i"llne-s'-plantea- u
+dos en esti8eccíOn'reTációnadoscoriun pUÍllo-aepartida instituciona(es de
+poca utiJidágjiI!-~ persl?~_~~~:y~gué, cóñio-est~ciI11siQ:~.ill!~L"la ~~!ij1ctura
+es definidamente secundaria, tanto que sólo de manera incidental y cc.>n ti ~
+nes de ilustración se reqúiere alglín come-ñtano acerca ae'-élIái'4a: -.'.JlJ '!
+\i' • \F"
+41 Easton, David: Esquema para el análisis poUtico, Amorrortu, Buenos Aires, 1992.
+42 Blondel, Jean: "Introducción al estudio comparado de los gobiernos", Revista de Occidente,
+Madrid, 1972, págs. 33-37.
+43 Easton, D.: op. cit., pág. 79.
+224
+INPUTS
+FIGURA 1
+EL SISTEMA POLÍTICO EN EL ENFOQUE SISTÉMICO
+Demandas
+Apoyos
+•
+AMBIENTE
+SISTEMA
+POLlTICO
+Decisiones
+----p-ol-íti-ca1s .... OUTPUTS
+I
+I
+I
+I
+I
+I
+I
+I
+I
+IL ____ ~M_e~c~a_n~is~m~o_s~ d~e~ a~ju _s_te_ y~ _re_tr_o_a_lim e~ n_ta_c_ió_n_ ____ ~:
+AMBIENTE
+Los posteriores desarrollos teóricos de Gabriel Almond44 se encaminaron
+a disminuir, desde el estructural-funcionalismo, el excesivo nivel de generalidad
+del esquema sistémico. Su mayor contribución se centró en el intento
+de desagregar los diferentes elementos conceptuales (funcíon.es, capacidades
+y estructuras) de manera que el esquema pudiera ampliar sus posibilidades
+de aplicación empírica. --r
+Podría decirse que Almond aprovecha el esquema eastoniano, proce- ¡
+diendo a su especificación. Los mecanismos de input son desagregados en demandas
+de: 1) bienes y servicios; 2) regulación de conductas; 3) participación,
+y 4) información; y en apoyos mediante: 1) ayuda material; 2) obediencia a
+la ley; 3) participación, y 4) respeto a la autoridad. De la misma manera, los
+outputs son desagregados en: 1) extracciones (tributos, tasas, servicios personales);
+2) regulaciones de la conducta; 3) prestaciones o distribuciones (de
+bienes, servicios, honores, oportunidades, etc.), y 4) productos simbólicos
+(afIrmación de valores, exhibición de símbolos políticos, declaraciones o intenciones
+políticas). . .
+El punto más importante de estos desarrollos es la especificación de las -,
+seis funciones del sistema político encargadas de realizar los procesos de con-
+44 Almond, Gabriel A. y Powell (h), G. Birngham: Politica comparada, Paidós, Buenos Aires,
+1972, Para una crítica acerca de las limitaciones del esquema de Almond, véase la introducción de
+Blande! en Blondel, Jean y otros: El gobierno: Estudios comparados, Alianza, Madrid, 1981.
+225
+versión, a partir de las cuales es posible identificar, en cualquier sistema político,
+las estructuras encargadas de cumplirlas. Las primeras dos funciones actúan
+del lado de los inputs, las tres siguientes del lado de los outputs, y la restante
+afecta a todos los procesos implicados en el sistema político. Ellas son: 1)
+articulación o selección de intereses; 2) combinación o incorporación de intereses;
+3) elaboración de reglas; 4) aplicación de reglas; 5) adjudicación de reglas,
+y 6) comunicación de actividades. Sin embargo, más allá de la limitación señalada
+en el apartado anterior con respecto a esta perspectiva, la misma supone
+una linealidad entre funciones y estructuras. Como señala Blondel:
+(. .. ) Almond parece postular una relación simple. Su modelo no se refiere a las normas
+y supone que los modelos de comportamiento se reflejan directamente en la trama
+de las estructuras.45
+.l2esde otro punto de vista, propuesto por Duverger, el sistema político
+puede ser visto como el "conjunto del sistema social estudiado bajo la perspec- _
+tiya de sus aspectos políticos"46. El concepto, despojado de las características
+impuestas por el análisis sistémico, ya no hace referencia a un subsistema al
+interior de un suprasistema social que constituye su entorno (ambiente), sino
+que es precisamente el sistema social mismo abordado desde una perspectiva
+específicamente política. El sistema político, entQ11Ces, abarcaría a un conjunto
+de instituciones (queCOilSfituyen, entre otrOS elementos, el régime;PoIltico)
+y a todas sus relaciones'-con'raaores sociales, seanOñOGeñ:at'irndeza
+p01ítíCa:~coilºñí.!éº§:I~~ñicos~ -~i!~y!~es~Tdeológicos, histórICOS,étc~De-é'sta
+n1anera puede apreciarse er mayor graaoae-geÍleriiIidad del sistema político
+con respecto al régimen político, en una relación de inclusividad. Si bien esta
+perspectiva nos pernlite distinguir régimen (político) de sistema (político), se
+vuelve pobre en función de determinar los diferentes elementos que componen
+al sistema de manera de poder acceder al nivel del gobierno.
+Un can1ino original es el desarrollado por Leonardo Morlino, quien aprovecha
+elementos del análisis sistémico, en la medida en que concibe al sistema
+político coexistiendo con otros subsistemas (económico, cultural, etc.) como
+componentes de un sistema social más amplio; pero lo hace a partir de
+una perspectiva estática, esto es, aislándolo respecto del resto de los fenómenos
+sociales47• Mientras el análisis sistémico se centra en las "transacciones" .
+que ocurren entre el sistema político y su ambiente, de manera de poder dis-
+45 Blondel, J. y otros: op. cit., pág. 30.
+46 Duverger, Maurice: Instituciones políticas y Derecho Constitucional, Ariel, Madrid, 1984,
+pág. 33.
+47 Morlino, Leonardo: Cómo cambian los regímenes políticos, Centro de Estudios Constitucionales,
+Madrid, 1985, págs. 30-46.
+226
+tinguir los procesos, el aislamiento al que procede Morlino permite distinguir
+los componentes institucionales de los sistema políticos: en primer lugar
+la comunidad política, que incluye: 1) las ideologías, valores y creencias
+difundidas en la sociedad; 2) las personas o grupos activos (de carácter no estructurado),
+y 3) las estructuras intermedias, en referencia a los partidos políticos
+y grupos de interés; en segundo lugar, el régimen político, sobre el que
+centraremos el análisis, y finalmente, las autoridades, esto es, los titulares
+de roles con autoridad, lo que remite al tema de los gobernantes y aclara el
+carácter objetivo (institucional) de su poderl8
+.
+Al igual que en el esquema de Duverger, el régimen político posee aquí un
+carácter diferenciable, por medio de la inclusividad, con respecto al sistema
+político, pero en este caso el enfoque nos permite al mismo tiempo ubicar sus
+diferentes componentes. Ellos son: 1) un conjunto de estructuras de autoridad
+encargadas de: a.- tomar decisiones, y b.- aplicar las decisiones, lo que incluye
+las que ejecutan las decisiones (administrativas), las que fuerzan a la obediencia
+(represivas) y las que extraen recursos de la sociedad (extractivas o
+fiscales); 2) las normas y procedimientos (reglas formalizadas) y las reglas de
+juego (reglas no formalizadas), que regulan: a. la forma de toma de decisiones
+y de su aplicación (ejercicio del poder y legitimación funciona!), y b. las forn1as
+de designación de las personas que ocupan las estructuras de autoridad (representación
+y legitimación genética), y 3) ideologías, valores y creencias cristalizadas
+en las estructuras, normas y procedimientos del régimen49.
+Es esta desagregación de los componentes del régimen lo que nos permite
+identificar al gobierno como conjunto de instituciones. Para ello, es necesario
+pasar al nivel de las estructuras de autoridad (el poder objetivado en instituciones).
+Se puede distinguir, entonces, entre las estructuras de adopción
+de decisiones y las de aplicación de las mismas. Estas últimas hacen referencia
+a la burocracia pública, de manera que, para Morlino, el aparato administrativo
+del gobierno (del Estado) es un componente propio del régimen políticoso.
+Por otra parte, el gobierno como institución es parte vital del conjunto de
+las estructuras de toma de decisiones. Queda así expuesta, nuevamente, la
+distinción entre dirección política y administración.
+48 La distinción entre comunidad política, régimen político y autoridades es tomada de Easton,
+D.: The Political System, Alfred A. Knopf, Nueva York, 1952.
+49 Morlino, L.: op. cit., págs. 40 ss.
+50 Por el contrario, para Duverger el régimen político "no comprende todas las instituciones
+del Estado relativas al poder, sino solamente algunas de ellas. A este respecto, hay que distinguir
+por un lado las instituciones políticas, y por otro las instituciones administrativas y judiciales".
+(Duverger, M.: op. cit., págs. 34-35). Nótese que la diferencia de criterio reside en el hecho de que,
+mientras para Morlino las estructuras del Estado (de aplicación de decisiones) forman parte del régimen
+político, para Duverger, inversamente, las instituciones que conforman el régimen son integrantes
+del Estado. La relacion de inclusión se invierte.
+227
+Se ha delimitado entonces el ámbito del concepto: el gobierno forma parte
+de las estructuras de toma de decisiones que posee el régimen político de
+un sistema político dado. Así, de la misma manera que régimen político no
+es sinónimo de sistema político, sino que constituye una parte de éste, el gobierno
+es, a su vez, un elemento constituyente del régimen político, de sus
+estructuras de autoridad y, más precisamente, de aquellas encargadas de tomar
+decisiones. Los diferentes conceptos se incluyen gradualmente entre sí
+de la misma manera que se contienen las muñecas rusas.
+Nótese que, a pesar de que los elementos constitutivos que aparecen en
+común entre sistema, régimen y gobierno guardan una relación de inclusividad,
+no existe sin embargo una identidad plena entre todos los elementos al
+pasar de una muñeca rusa a la siguiente, más pequeña. Algunos pierden algo
+en el camino. Por ejemplo, las autoridades dejan de ser un componente al
+pasar del nivel sistémico al de régimen; de la misma manera, no cualquier
+ideología, valor o creencia difundida en la sociedad es elemento del régimen
+político, sino solamente aquellas que han cristalizado en sus estructuras,
+normas y procedimientos.
+Pero no todos los problemas conceptuales están superados. Es verdad
+que ya hemos trazado la línea de conversión que nos permite diferenciar conceptualmente
+al sistema, al régimen y al gobierno, y sabemos también que
+este último está constituido por instituciones encargadas de tomar decisiones.
+Sin embargo queda en pie una pregunta importante: ¿cuáles son las estructuras
+de toma de decisiones que forman el gobierno? o, más precisamente,
+¿cuál es el grado de superposición e identificación entre gobierno y estructuras
+de toma de decisiones?
+En este sentido, es posible encontrar dos perspectivas básicas, utilizadas
+en el estudio de los sistemas políticos concretos. En la prinlera, el gobierno
+designa al conjunto de las estructuras de toma de decisionj¿§¡ coincidiendo
+ambas de manera exacta. Esto nos lleva a conferirles cáracter gubernamental
+tanto al poder ejecutivo como al legislativo. Por lo general, cuando se hace
+referencia a esta perspectiva se habla de "lasmslituciofffiS de gobiernn" o
+de "gobierno en sentido amplio". Así, éste es definido como el conjunto de los
+sujetos con poder de autoridad y de los órganos políticos del Estado a los que,
+institucionalmente, les está confiado el ejercicio, administración y control del
+poder polític051•
+Cabe hacer dos comentarios con respecto a esta perspectiva. El primero
+es que, de alguna manera, se acerca al esquema funcionalista en la medida
+en que, partiendo del supuesto inicial de que la función del gobierno es deci-
+51 Rockman, B. A.: op. cit. Un desarrollo teórico que enfatiza esta perspectiva para abordar el
+tema del gobierno puede encontrarse en Orlandi, Hipólito: op. cit.
+228
+o
+()
+1-
+....1
+o
+c..
+w
+1-
+FlGURA 2
+SISTE1IA, RE GIMEN y GOBIERNO
+AUTORIDADES ---. TITULARES DE ROLES CON AUTORIDAD
+RÉGIMEN
+POLíTICO
+COMUNIDAD
+ESTRUCTURAS
+DE AUTORIDAD
+DE TOMA
+DE DECISIONES
+E Administrativas
+DE APLICACiÓN
+Coactivas
+DE DECISIONES
+Fiscales
+e NORMAS O PROCEDIMIENTOS (Formales)
+REGLAS DE JUEGO
+REGLAS DE JUEGO (Informales)
+IDEOLOGíAS, VALORES Y CREENCIAS
+(Cristalizados en instituciones)
+IDEOLOGíAS, VALORES Y CREENCIAS
+E (Difundidos en la sociedad)
+POLíTICA PERSONAS Y GRUPOS ACTIVOS
+ESTRUCTURAS INTERMEDIAS
+FUENTE: construido a partir de Morlino, L.: op. cit., págs. 45-46.
+dir, se pasa a identificar inmediatamente las estructuras de autoridad que
+intervienen en el proceso de toma de decisiones, considerándolas legítimamente
+como pertenecientes al gobierno. En el límite, además del ejecutivo y
+el legislativo, el poder judicial (al menos el órgano que lo encabeza) e incluso
+los organismos "burocráticos" del Estado pasan a formar parte de las instituciones
+de gobierno. Paralelamente, la función de gobierno incorpora co-
+229
+mo propias todas las demás actividades desarrolladas por estas instituciones,
+aunque excedan su carácter decisiona152 .
+El segundo comentario, derivado del anterior, es que la determinación
+de las instituciones de gobierno depende, como es obvio, dertipo ae réginmn
+p11ttttco, va que 8stOs~s¡téIirereñcian;entt~~otrns'rosas, 'poY'impHcat diferentes
+redes institucionales en el proceso decisiona153 . Si se considera, por ejenlplo,
+las instituciones anteriormente señaladas, se notará que la afirmación
+sólo puede considerarse cierta con respecto a los gobiernos constitucionales.
+En muchos otros regímenes, por el contrario, no existen instituciones legislativas
+(piénsese en los regímenes militares de Latinoamérica) y, aun cuando
+existen, muchas veces no puede ser considerados como instituciones que
+tomen decisiones, como ocurre en los regímenes de partido único.
+En la segunda perspectiva el término designa a un órgano particular de
+las estructuras de toma de decisiones; más específicamente, lo que el pensanÜ~
+llto liberal ha denominado como poder ejecutivo. Incluso cuando se habla
+de gobernantes, se hace referencias a los titulares de los roles ejecutivos.
+Desde esta perspectiva, se habla de "gobierno en sentido estricto" o "el gobierno".
+Así, este es un elemento central de las estructuras de toma de decisiones
+aunque sin agotarlas, ya que los órganos legislativos (parlamentos y
+congresos), aun no perteneciendo a las instituciones de gubernanlentales,
+son constitutivos de ellas, al menos en los regímenes constitucionales.
+La especificación del gobierno en sentido estricto también depende
+(aunque en menor medida que en el caso anterior) del tipo de régimen.
+También en los distintos casos de democracia es posible encontrar diferencias.
+Así, mientras en el presidencialismo el gobierno está constituido por
+el presidente y los ministros-secretarios que dependen de él, en el parlamentarismo
+lo está por el jefe de gobierno (primer ministro, canciller o presidente
+del gobierno) y el gabinete ministerial. En el caso del parlamentarismo,
+sin embargo, queda en pie la ubicación de la figura del jefe de Estado
+(rey o presidente), que en algunos casos es considerada como integrante
+del gobiern054 • Generalmente, cuando se distinguen las formas de go-
+52 Vale aclarar esto último con un ejemplo. En la medida en que la burocracia pública participa
+activamente (aunque de manera parcial) en el proceso de toma de decisiones (lo que identifica
+a la función gobierno), aquélla debe ser considerada como un órgano gubernamental. Pero al mismo
+tiempo, sus otras actividades (típicamente, las administrativas) quedan incorporadas a la función
+del gobierno.
+53 El mismo efecto poseen, dentro de lm mismo tipo de régimen, las variaciones en cuanto a
+la medida en que las distintas instituciones toman decisiones de manera efectiva.
+5.¡ Por lo general, cuando existe la distinción entre jefe de gobierno y jefe de Estado, este último
+no es considerado relevante al concepto de gobierno. Sin embargo, como veremos más adelante,
+la dinámica de alguno de los gobiernos semipresidencialistas sugiere la necesidad de contemplarlo.
+230
+bierno, como presidencialismo y parlamentarismo, se está partiendo de esta
+perspectiva de análisis.
+Mientras el contenido del término gobierno, en este sentido, está ampliamente
+desarrollado en los análisis de Europa continental, en el mundo anglosajón
+la palabragovernment tiene un significado más abarcativo, referido
+al conjunto de las instituciones de gobierno, utilizándose los términos cabinet
+(en Gran Bretaña) o administration (en los Estados Unidos) para designar
+al gobierno en sentido estrict055.
+En la medida en que las estructuras políticas están escasamente diferenciadas,
+existe una identificación entre ambas perspectivas en tanto la decisión
+está en manos de un único detentador de poder. El proceso de modernización
+política, diversificando las estructuras de autoridad, y el surgimiento
+del constitucionalismo, confiriéndoles poder político decisorio, marcan el
+punto en que an1bas empiezan a transitar por caminos distintos. Mientras
+una queda atada a la función decisoria y se expande en la medida en que
+nuevas instituciones se suman a ella, la otra se aferra a la institución que
+conserva su denominación aunque cambie su rol monopólico.
+La tendencia general en los regímenes democráticos durante la última
+década ha sido el aumento del poder de los ejecutivos con relación al de los
+parlamentos y congresos, reforzando la idea que asimila el gobierno con el
+poder ejecutivo. Esta tendencia es muy clara en la mayoría de las nuevas democracias
+latinoamericanas, pero también se puede percibir en el resto de
+las democracias, incluso en las parlamentarias. Al parecer, la ambigüedad
+del concepto no puede ser eliminada, pero al menos puede ser especificada y
+circunscrita. De todos modos, y a pesar del uso frecuente del concepto en ambas
+acepciones, aun en un mismo análisis, "en la práctica, el contexto evita,
+generalmente, toda confusión"56.
+2 Formas de gobierno
+2.1 LAS FORMAS DE GOBIERNO EN EL PENSAMIENTO POLíTICO
+El desarrollo de las formas de gobierno a lo largo de la historia puede ser
+abordado desde dos perspectivas complementarias que echan luz sobre diferentes
+fenómenos. La primera perspectiva se relaciona con el seguimiento de
+la evolución de las instituciones de gobierno, lo que permite aprehender con
+precisión las modalidades en que histórica y concretamente se estructuraron
+55 Levi, L.: op. cit., pág. 473.
+5" Duverger, M.: op. cit., pág. 125.
+231
+La diferenciación de las formas de gobierno puede realizarse a partir
+de la consideración de tres elementos. El primero se refiere a su fuente de
+legitimidad, específicamente si es de carácter directo o indirecto. En segundo
+lugar importa destacar la forma en que se estructura el ejecutivo
+(gobierno en sentido estricto), sea colegiado o unipersonal. Finalmente, la
+forma en que se establece la relación entre las diferentes estructuras de toma
+de decisiones, en especial la relación entre el ejecutivo y el legislativo,
+y sus prerrogativas. Más precisamente, si entre ambos poderes existe una
+separación o una fusión.
+A grandes rasgos, en función de estos elementos se puede avanzar las
+diferencias generales entre los dos modelos tradicionales más comunes. El
+primero, el parlamentarismo, se caracteriza por la legitimidad indirecta
+del gobierno, por su carácter colegiado y por la interdependencia entre los
+poderes ejecutivo y legislativo, producto de su integración (fusión de poderes).
+El segundo, el presidencialismo, encuentra sus rasgos distintivos en
+la elección directa del gobierno, en su carácter unipersonal yen la interdependencia
+de poderes por medio de la coordinación (división de poderes)8o.
+Entre ellos podría ubicarse una tercera forma de gobierno: el semipresidencialismo.
+Como advierte Cotta, la adopción de esta terminología refleja los ejes a
+partir de los cuales se construyen ambos modelos. Mientras la idea de gobierno
+parlamentario resalta la fuente de legitimidad del gobierno (el parlamento),
+el concepto de presidencialismo resalta el carácter unipersonal de su
+estructura (el presidente )81.
+2.4.1 Parlamentarismo
+.El parlamentarismo es la forma de ¡obierno Q.ue más estrechamente ha
+estado asociada a la democracia. De hecho, con la excepción de los Estados
+Unidos, todas las democracias que demostraron un alto nivel de estabilidad
+política poseen gobiernos parlamentarios. El origen de esta forma de gobierDO
+se relacioDa con las sucesivas reformas políticas que transformaron a las
+~Q..UÍas absolutas de los siglos XVII y XVIII en los modernos regímenes
+políticos democráticos. a través de una serie de mutaciones en el sistema político
+que tuvieron como consecuencia el surgimiento de lo que actualmente
+80 Los conceptos de interdependencia por integración y por coordinación, propios del parlamentarismo
+y del presidencialismo respectivamente, son elaborados por Loewenstein, K: op. cit.
+81 Cotta, M.: op. cit., pág. 332.
+247
+r- ¡ 1e denomina gobierno parlamentario. Este proceso no fue originalmente una
+. meta planeada, producto del intento de concretar prácticamente una teoría
+O un conjunto articulado de ideas. Por el contrario, fue consecuencia de la
+progresiva lucha que a partir del siglo XVII empiezan a entablar en la historia,
+y a partir de ella en la te aria, los partidarios del gobierno absoluto y
+los partidarios del gobierno limitado o constitucional.
+El impulso inicial, siguiendo el desarrollo inglés (cuna del parlamentarismo),
+consistió en el pasaje de la monarquía absoluta a la monarquía constitucional.
+Este momento, caracterizado en Inglaterra por la Gloriosa Revolución
+de 1688 y recogido a nivel teórico por Locke, estuvo centrado en el desarrollo
+de restricciones sobre la acción del monarca. Ya hemos señalado las
+transformaciones que llevaron al gobierno constitucionaL Aquí basta con resaltar
+la jerarquizaciÓn del parlamento como un órgano político de legitimidad
+popular, equiparándolo al rey y adquiriendo la potestad de aprobar o de-
+L saprobar sus iniciativas o las de su consejo de Estado.
+La monarquía constitucional significó pasar de un modelo político monísta
+(con un solo foco de poder, el rey) a otro modelo, de carácter dual, basado
+en una doble legitimidad: por un lado la tradicional, corporizada en la
+figura del monarca, quien ejerce el gobierno a través de un primer ministro
+y su gabinete y que aún conserva la facultad de disolver al parlamento; por
+el otro, legitimidad popular (aunque limitada), cristalizada en un parlamento
+encargado de legislar, y sin cuyo voto ni las decisiones del rey entran
+en vigencia ni el primer ministro, propuesto por el monarca, puede asumir
+sus funciones .
+.El.vasaje de la monarquía constitucional a la monarqu{a parlamentarta
+tuvo lugar a 10 largo del siglo XVIII, con el advenimiento de la dinastía de
+los Hannoyer en Gran Bretaña. Este proceso esfuvo caracterizaaopOTlil de:
+clinación del poder real y el paralelo fortalecimiento de la autoridad parlamentaria.
+En su desarrollo, el primer ministro y su gabinete se independizaron
+del monarca, apropiándose progresivamente de sus facultades gubernamentales
+y aumentando su dependencia con respecto al parlamento (del cual non miembros y frente al cual son responsables). -?l primer ministro se convierte
+en el jefe de gobierno, mientras el rey ocupa un posición formal y simbólica
+como jefe de Estado. alguien que reina pero no gobierna. De esta manera,
+"la fase de la monarquía parlamentaria se caracteriza por la superación
+del dualismo en los canales de legitimación política, y la afIrmación del
+canal electoral-parlamentario como dominante"82.
+Este es el desarrollo histórico que desembocó en el surgimiento del parlamentarismo
+en su país de origen. A partir de allí, el modelo fue importado
+82 Cotta, M.: op. cit., pág. 330.
+248
+~ continente europeo. donde fue adaptado con modificaciones durante el sililo
+XI~. A diferencia de la evolución política del caso británico, en Europa
+continental será la teoría la que precederá a la historia.
+tos estructurales más característicos del parlamentarismo
+se relaciona con la distinción de funciones entre el je e e go lerno, que tIene
+.ª-, su cargo la dirección política y administrativa (primer ministro, premier,
+canciller o presidente de gobierno), y el jefe de Estado, cargo simbólico y cereIl!
+onial, que es ocupado en las monarquías por un rey y, en las repúblicas, por
+un presidente elegido por el parlamento, con un mandato fijo.
+El ejecutivo se constituye como un cuerpo colegiado (gabinete o consejo
+de ministros) que, además del primer ministro (que lo preside), está integrado
+por el resto de los ministros encargados de administrar las diferentes
+áreas del Estado. Aunque originalmente el jefe de gobierno sólo es unprimus
+inter pares, en los hechos posee una preeminencia sobre el resto de los miembros
+del gabinete, sin que por ello la estructura de gobierno pierda su carácter
+colegiado, en la medida en que prima el criterio de la responsabilidad colectiva.
+Los miembros del gabinete (en especial el jefe de gobierno) deben ser, ,L~
+al mismo tiempo, miembros del parlamento (excepto en Holanda y Luxem-c
+''{;
+burgo), aunque en momentos de crisis y por períodos breves es usual la formación
+de "gobiernos técnicos" de extracción extraparlamentaria.
+El primer ministro es elegido de manera indirecta por el parlamento,
+que es elegido por sufragio popular y cumple a su vez las funciones legisla~
+3. Si bien es el jefe de Estado quien propone su designación (excepto en ;Jt...
+Irlanda, Japón y Suecia, donde la propuesta es hecha por el parlamento o un
+organismo interno al mismo), su poder es sólo formal ya que el jefe de gobierno
+no es investido a menos que cuente con el consentimiento parlamentario.
+De hecho, el gobierno es responsable ante el parlamento y no ante el jefe de
+Estado. La designación del resto de los ministros se realiza, generalmente,
+enun momento posterior. a propuesta del jefe de gobierno. Estos también nec_
+esitª!1:.jl.§Ja confianza del parlanlento para mantenerse en el cargo. Así, a
+pesar de su preeminencia, la fuente de legitimidad del primer ministro es la
+misma que la del resto de los miembros del ejecutivo.
+El mecánismo de investidura puede revestir dos modalidades. La primera,
+explícita, consiste en un "voto de confianza" del parlamento, esto es, una
+votación en la cual la mayoría apoye expresamente al candidato. En la segunda
+modalidad, implícita, aquéllo acepta tácitamente no vetándolo. El hecho
+de que en muchos casos no se haga necesaria un votación explícita, frecuente
+en los países escandinavos, permite el surgimiento de lo que se deno-
+83 En los casos de bicameralismo, la confianza es otorgada por una sola cámara, la llamada
+cámara baja, excepto en los casos de Bélgica, Italia y Suiza.
+249
+x
+mina "gobierno minoritario", esto es, un gobierno cuyo apoyo efectivo no llega
+a constituir la mayoría absoluta del parlamento.
+El mecanismo de responsabilidad parlamentaria implica que, de la misma
+manera que el parlamento tienen la facultad de investidura, también tiene
+la de disolver al gobierno. Esto puede ocurrir básicamente de dos maneras:
+la primera es votando en contra de una "cuestión de confianza" planteada
+por el primer ministro; la segunda, por medio de la aprobación de un voto
+de "censura" o "no confianza" (desconfianza) impulsado por los miembros
+del parlamento. Resulta, pues, lógico que la duración del mandato del ejecutivo
+no esté sujeto a plazo alguno. El mismo se mantiene mientras conserye
+el apoyo de los parlamentarios.
+Como contrapartida del poder de investir/remover a los miembros del gabinete
+que posee el parlamento, eljefe de gobierno tiene, a su vez, la facultad
+de disolver al parlamento (o de solicitar al jefe de Estado que lo hagaB4 ), conVOCando
+a elecciones inmediatamente para la constitución de uno nuevo. Tal
+medio de acción sirve como una amenaza disuasoria (aunque no siempre efectiva)
+ante la posibilidad de que el parlamento pretenda instrumentar un vo-
+_to de censura, o de que algunos miembros de la coalición de gobierno pretendan
+escindirse y, en consecuencia, le hagan perder el apoyo parlamentario.
+Asimismo, sirve para superar situaciones de "empate" entre el parlamento y
+el ~obierno, devolviéndole al pueblo la posibilidad de definir la situación.
+Completado así el modelo, es notorio que el concepto de separación de
+poderes rígidan1ente introducido por Montesquieu no se acerca mucho a la
+realidad de los gobiernos parlamentarios. Por un lado, los miembros del gobierno
+son al mismo tiempo miembros del parlamento. Por el otro, existen
+medidas de intervención recíproca de un cuerpo sobre el otro (voto de confianza/
+desconfianza en el caso del parlamento; poder de disolución del parlamento
+en el caso del gobierno). Como puede notarse, en este esquema no
+existe ni separación de poderes ni independencia entre ellos. Muy por el contrario,
+la relación gobierno/parlamento está caracterizada por la fusión de los
+poderes y por la interdependencia (por integración) de los mismos. Sin embargo,
+esta interdependencia garantiza la constitucionalidad del gobie.r.no.
+Hasta aquí se han descripto las características básicas de lo que, siguiendo
+a Loewenstein, se denomina parlamentarismo clásico. Sin embargo, es posible
+encontrar otros tipos, en función de diferencias en sus características y
+su funcÍonan1iento. En este sentido, un cambio institucional importante es el
+que caracteriza a Alemania (Constitución de Bonn), que fue adoptado tan1-
+84 Aunque el rol del jefe de Estado es sólo una formalidad en la activación de este mecanismo,
+en momentos excepcionales puede cobrar centralidad. Un caso claro es la caída del primer ministro
+Silvia Berlusconi (Italia, 1994) ante la negativa del presidente Luigi Scalfaro a disolver el parlamento.
+250
+bién por la Constitución de España, y que da lugar lo que Loewenstein llama
+parlamentarismo controlado, en tanto el parlamento ve limitadas sus posibilidades
+de acción sobre el gobierno. Esto se logra mediante la adopción de un
+mecanismo destinado a evitar la inestabilidad de los gobiernos, conocido como
+"voto constructivo de censura". Así, el sistema se des balancea de manera
+favorable para el lado del ejecutivo ya que, en este caso, :un primer ministro
+sometido ala desconfianza parlamentaria no cae a menos que al mismo tiempo
+sea elegido su sucesor. Como es evidente, la unión para oponérsele es más
+sencilla que la unión para elegir uno nuevo. De ahí que este mecanismo evi- _
+te la inestabilidad gubernamental congénita, tal como se evidenciaba en la ..
+III y IV Repúblicas francesas y en la Italia del pentapartidismo. Un buen
+ejemplo al respecto es la crisis desatada en España a fines de 1994 (por una
+crisis económica agravada por imputaciones de corrupción y de vínculos entre
+grupos antiterroristas y el gobierno), en la que la desconfianza hacia el
+gobierno liderado por Felipe González resultaba en principio inviable, no sólo
+por el apoyo brindado por pequeños partidos regionales (PNV -Partido
+Nacionalista Vasco- y CiU -Covergencia i Uni&-) al partido en el poder
+(PSOE), sino también por la imposibilidad de acordar un sucesor por parte
+de una oposición colocada tanto a la izquierda (Izquierda Unida) como a la
+derecha (Partido Popular) del gobierno.
+Los obiernos de asamblea o obiernos de convención se caracterizan
+por lograr el efecto contrario: el equilibrio e poderes se esp aza e manera
+tal que convierte al parlamento en la institución crucial del régimen. .>(
+Aquí el gobierno deja de existir como instancia autónoma quedando subsumido
+en la asamblea, y el gabinete no es más que una de su comisiones. Este
+sistema implica el mantenimiento de las prerrogativas del parlamento
+sobre el ejecutivo (designación, remoción, etc.) y la' eliminación de todo medio
+de acción de éste sobre las asambleas parlamentarias. El gobierno de
+convención significa la concentración de todos los poderes en la institución
+parlamentaria, lo que lo aleja bastante, no sólo de la idea de división de poderes,
+sino también de la (menos extrema) idea de equilibrio entre diferentes
+detentadores de poder. Por lo general, este modelo es considerado como
+un tipo de gobierno diferenciado; sin embargo, aquí hemos optado por considerarlo
+como un caso extremo de parlamentarismo. Su concreción práctica
+sólo ha sido intentada, en reiteradas oportunidades, en Francia.
+Sin embargo, la diferencia fundamental entre los gobiernos parlamentarios
+no deriva de factores meramente institucionales, como las características
+de las estructuras de autoridad, sino de la influencia que los diversos tipos
+de sistemas de partidos ejercen sobre su funcionan1iento.85
+sr, El señalamiento clásico acerca del tema fue planteado por Duverger, Maurice: Los partidos
+251
+El hecho de que el gabinete dependa de la confianza del parlamento
+implica, en términos concretos, que aquél se sostiene sobre la mayoría po~
+lítica. En este sentido, el gobierno es siempre un reflejo de una mayoría
+~ parlamentaria, surge como su expresión y cae inevitablemente cuando deí=
+jan de concordar. En los casos de multipartidismo, característicos de Euf
+ropa continental, donde ningún partido alcanza a poseer una mayoría abo..
+soluta propia, es necesario formar una coalición que logre la mayoría ne¡:
+cesaria para constituir gobierno y proceder a la investidura del primer mii
+nistr086
+. Si bien este cargo es ejercido, generalmente, por el líder del par.
+J tido mayoritario de la coalición, el resto de los miembros del gabinete (mil!)
+nistros) pertenecen a todo/el arco político partidario que la integra. Las
+~ principales consecuencias de esta situación son: a) el gobierno está forma""
+do por más de un partido;87 b) el gobierno cae cuando, al retirarse un par~
+tido de la coalición, ésta pierde su condición mayoritaria. Como hemos se-
+2 ñalado con respecto al caso alemán, este efecto puede moderarse median~
+te el mecanismo del voto "constructivo" de censura. En los casos en que no
+~ existe este mecanismo, los gobiernos llegan a ser fácilmente presas de la
+u inestabilidad.
+El funcionamiento cambia completamente en caso de bipartidismo. Donde
+sólo hay dos partidos relevantes existe una sola interacción posible: mientras
+uno de los part1dos alcanza la mayoría por sí mismo, el otro queda relegado
+a su papel opositor. De hecho, debido a que de antemano se sabe que el
+oresultado electoral dará como resultado la formación de un gobierno lidera~
+do por el líder de algunos de los dos partidos (el que fmalmente obtenga la
+~ mayoría), la investidura se convierte en un acto muy parecido a la elección
+~ popular directa. Las consecuencias en este modelo son especulares con res~
+pecto al anterior: a) el ejecutivo es monocolor, esto es, el primer ministro (por
+¡lo general, el líder del partido mayoritario) y el resto de los ministros del gabinete
+pertenecen al mismo partido; b) el gobierno descansa en una sólida
+poUticos, Fondo de Cultura Económica, Buenos Aires, 1973, págs. 418-447. Aquí sólo haremos referencia
+al sistema de partidos y, de manera marginal, a las características estructurales internas
+de los partidos.
+86 En los casos en que la in~stidura es implícita, la formación de gobierno puede revestir una
+forma alternativa a la de gobierno de coalición: el gobierno de minoría.
+87 En ocasiones en que la investidura debe ser explícita, y especialmente ante la existencia de
+un partido que está al borde de conseguir una mayoría propia, es posible que pequeños partidos
+otorguen su voto de investidura sin entrar a formar parte de la coalición de gobierno. Esto ocurrió
+en España, en la legislatura que se inició en 1993 en la que dos partidos regionales, el PNV y CiU,
+aportaron al PSOE los pocos votos que le faltaban para conseguir la mayoría absoluta, aunque sin
+entrar a formar parte del gobierno. De todos modos, hasta ese momento España se acercaba más
+a la realidad de un sistema de partido predominante que a uno multipartidista. De la misma manera,
+en Italia el gobierno de Lamberto Dini, que asumió tras la caída de Berlusconi, aunque en este
+caso el gobierno se asumía (por los actores políticos importantes y a sí mismo) como provisional.
+252
+mayoría parlamentaria por lo que, a menos que existan escisiones partidarias,
+es improbable que se den intentos de censurar al gobierno. La única
+manera de que el gobierno caiga es, además de los casos de renuncia, mediante
+la derrota del partido de gobierno en las elecciones parlamentarias.
+Obviamente, el modelo descansa sobre un supuesto: los partidos poseen un
+rígida disciplina interna; en caso contrario, la posibilidad de que los parlamentarios
+voten sin seguir la línea política del partido, provocaría la derrota
+del primer ministro.
+El carácter monolítico que adquiere el ejecutivo en un parlamentarismo
+bipartidista (como en Gran Bretaña y otros países del Commonwealth) lleva
+a distinguir un nuevo tipo (Loewenstein lo considera como un caso aparte) de
+forma de gobierno: el gobierno de gabinete. Al estar ocupados todos los puestos
+del gabinete por miembros de un solo partido, especialmente cuando los
+partidos poseen una estructura interna rígida, las asambleas del partido oficial
+muchas veces pasan a ser más decisivas que las reuniones del parlamento.
+Como señala Burdeau en referencia al caso británico: "primero instrumento
+del rey, después instrumento del parlamento, el gabinete completó su
+metamorfosis bajo su forma actual de organismo del partido mayoritario"88.
+A modo de síntesis, podría establecerse un continuo compuesto por los
+diferentes tipos de parlamentarismo en función del grado en que el sistema
+garantiza, como señala Loewenstein, un equilibrio de poderes mediante una
+interdependencia por integración. Si el punto medio es ocupado por el parlamentarismo
+clásico, en el cual los medios de acción recíproca mantienen un
+equilibrio entre las diferentes instituciones de toma de decisión, los extremos
+estaría representados por situaciones de extremo desequilibrio. En un polo,
+el gobierno de asamblea, que inlplica el predominio absoluto del parlamento
+sobre el gobierno. En el otro polo, el gobierno de gabinete que testifica el aumento
+de la autoridad del gobierno sobre el parlamento. Entre este polo y el
+centro del espectro puede ser ubicado el parlamentarismo controlado, ya que
+se da un mayor poder al brazo gubernamental sobre el parlamento, sin llegar
+al extremo del caso británico. l
+2.4.2 Presidencialismo
+La Constitución de los Estados Unidos es el modelo original a partir del
+cual esta forma de gobierno ha tenido influencia, limitada principalmente a
+los países de América latina. El presidencialismo ha resultado dificil de asir
+88 Burdeau, George: Derecho Constitucional e instituciones poUticas, Editora Nacional, Madrid,
+1981, pág. 306.
+253
+teóricamente. Producto eminentemente norteamericano, sus características
+fueron raramente estudiadas en forma completa. En los Estados Unidos, debido
+al impacto del enfoque conductista que desplazó la atención desde la
+instituciones hacia los comportamientos, no son muchos los desarrollos importantes
+que se han hecho sobre el mismo, aunque en los últimos años el
+surgimiento del neoinstitucionalismo revirtió la tendencia.
+Por su parte, el pensamiento europeo, debido a su experiencia parlamentaria,
+se ha mostrado escéptico ante esta "extraña" forma de gobierno. Como
+señala Loewenstein en un comentario ampliamente compartido por la literatura
+"Sobre el tema, "que el sistema sea capaz de funcionar es casi un milagro",
+atribuible sólo a las peculiares características de la sociedad y de la
+estructura sociopolítica norteamericanas. La conclusión a partir de este razonamiento
+es muy clara: el presidencialismo es una forma de gobierno que
+no puede funcionar eficazmente fuera de su lugar de origen.
+Estas aseveraciones pesimistas acerca del futuro del presidencialismo (o
+más precisamente, de los sistemas políticos con gobierno presidencialista) se
+fundamentan en la experiencia histórica. América latina, el único rincón del
+mundo donde el intento de consagrar el presidencialismo se dio en gran escala,
+muestra un triste récord en cuanto a la inestabilidad política, no sólo a
+mvel del gobIerno, smo del regmlen y de la globalidiif(ferSlst8ñüi-pOIíticó.
+De hecho, fuera de los Estados Unidos sólo existen dos casos de presidengalismo
+que han perdurado de manera estable y continua, por lo menos por
+cuarenta años. Uno es Chile, que desde 1932 y hasta el.sangriento golpe de
+Estado de 1973 demostró poseer una estabilidad que contrastaba de manera
+muy clara en el contexto latmoamencano. El se lindo e'em 10 más afortuna
+o, es asta ica, cuyo sistema político, desde la .Kl!.ill:@ ci'.jLg~ 1948,
+ha mantenido una gran estabilidad, inusual en !ln..I.égi:rp~nI?Q.!it!~O 9.e.mogrático
+con gobierno presidencial, si exceptuamos a l~~. Estados Unidos.
+La realidad de la inestabilidad del presidencialismo tuvo consecuencias
+cruciales en su estudio. La más notoria es que se ha limitado, principalmente,
+al caso norteamericano. Si bien de estos análisis es posible extraer los rasgos
+centrales de este tipo de gobiemo, su contrastación con los casos latinoamericanos
+conduce a la conclusión de que, al igual que hemos visto en el caso
+del parlamentarismo, es posible distinguir importantes diferencias entre
+los gobiernos presidenciales.
+La lógica del desarrollo histórico de esta forma de gobierno, a diferencia
+del desarrollo arquetípico del modelo anterior -el parlamentarismo británico-
+se relaciona con la ausencia de una autoridad monárquica. En este sentido,
+el problema que se les presenta a los fundadores de la república norteamericana
+no es el de crear junto al monarca un nuevo cuerpo gubernamental
+(el gabinete) que dependa del parlamento como expresión de la volúntad
+popular, ni lajerarquización de este último. Por el contrario, el problema que
+254
+se presenta en el contexto de las ex colonias británicas en América, recién independizadas,
+es buscar el mecanismo para designar una autoridad gubernamental
+ante la ausencia de un sistema de legitimidad tradicional. Lo que
+se busca es un gobierno constitucional o, en el lenguaje de los federalistas,
+repubÍicano. Por otra parte, debido a la convicción de los padres fundadores
+acerca de las potencialidades autoritarias de la representación popular, cristalizado
+en el temor a la tiranía de la mayoría, la elección del presidente por
+el congreso carecía totalmente de sensatez política. La mediatización de la
+elección presidencial tiene en ese temor a uno de sus fundanlentos.
+El residencialismo se caracteriza en cuanto a su fórmula de legitimidad,
+por la elección popular del gobierno me iante votaclOn Irecta e os
+ciudadanos. A diferencia del primer ministro parlamentario, el presícfente -es
+desi ado or un período fijo e inmodificable. El hecho de que 'en algunos casos
+la e ección e preSI ente no sea rea Izada estrictamente en forma directa
+sino a través de colegios electorales elegidos por sufragio popular, como
+ocurre en los Estados Unidos y sucedía en la Argentina antes de la reforma
+de 1994, no invalida el carácter directo. Esto principalmente por tres motivos.
+En primer lugar porque, a diferencia del parlamento, el colegio electoral
+no es un cuerpo permanente sino que se reúne al solo efecto de realizar
+la elección presidencial. Una vez desarrollada su tarea específica se disuelve.
+En segundo lugar, porque en los hechos el colegio electoral no hace sino
+ratificar la voluntad mayoritaria del electorado (expresada por medio del voto).
+apesar de ue los ciudadanos eligen electores no un residente, el vo-
+.. to es emitido en función_de los can i atos presidenciales, y los e ectores son
+elegidº-S_..en funsión_de su compromiso de apoyar a un determinaaocanCIIaatoo
+En la é oca moderna"caractenzada poreIavancedé ros partidos políticos,
+el colegio electoral es só o un orm Ismo . m men e, y vez o mas
+importante, por que el presidente no es responsable ante el colegio electoral
+sjno ante el electorado, que puede deponerlo sólo al final de su mandato. Sólo
+es responsable ante guien lo inviste, el pueblo. En función de esto, no puede
+dudarse de qJle)a fuente de legitimidad del gobierno es directa aun en caso
+de que existan, formalmente, colegios electorales9o.
+De todos modos, la mayoría de los casos evitan este "anillo intemledio"91.
+La designación presidencial se hace por lo general a simple pluralidad de su-
+89 En los Estados Unidos, de las quince elecciones en que la votación popular no arrojó tilla
+mayoría absoluta (únicamente cinco durante este siglo), el colegio electoral designó sólo en tres casos
+(1824, 1876 Y 1888) al candidato que había obtenido la segunda minoría en cuanto al caudal
+electoral. Los tres episodios tuvieron lugar en una época "prepartidista".
+90 En una misma línea, Cotta, M.: op. cit., se refiere a ''la extremada inconsistencia institucional"
+de los colegios electorales (pág. 324).
+91 La expresión pertenece a Cotta, M.: op. cit., pág. 334.
+255
+fragios -esto es, el candidato más votado es designado aun si no ha obtenido
+la mayoría absoluta- o "forzando" una mayoría absoluta por medio del
+mecanismo de doble vuelta o ballotage (Chile, Brasil, Costa Rica, Argentina).
+En algunos casos de elección sin colegio electoral, ante la ausencia de
+"l!!l.fI,. mayoría absoluta a nivel electoral y sin la posibilidad de acudir al
+l1}ecanismo de ballotage, la decisión final queda en manos del congreso.
+E;n este esquema, por lo general el congreso otorga la investidura a guien
+haya recibido la mayoría simple (simple pluralidad) de los sufragios. Este
+mecanismo caracterizó al presidencialismo chileno entre 1932 y 1973,
+siendo en este sentido relevante la elección en 1970 del socialista Salvador
+Allende, quien sólo había alcanzado una pluralidad de poco más de un
+tercio de los votos, gracias al apoyo que le dieron en el congreso los democristianos.
+Más recientemente, Bolivia ha demostrado cómo, en función de acuerdos
+de élite que buscan la estabilidad política, otro candidato puede ser
+elegido, incluso siendo el segundo (1985) o el tercero (1989) en la preferencia
+electoral. Sin embargo, aun en este caso asemejar este sistema al
+parlamentarismo es quedarse sólo en lo superficial. En primer lugar, porgue
+su rol es meramente arbitral: ante la falta de una mayoría expresada
+en términos electorales, la designación del presidente no es una función
+ro ia sino derivada de la ausencia de una ma oría absoluta. En segundo
+lugar, no existe una dua idad funciona entre el jefe de gobierno y
+el jefe de Estado sino que el presidente es investido con amb9Jl3triQ,utoª-__ _
+de autoridª(t_En tercer lugar, el presidente es designado por un plazo fi~
+jo, que no puede ser modificado. Y finalmente, en parte derivado del punto
+anterior, e.l ¡¡residente no es responsable ante el congreso ni está sujt:l~
+to a su voto de censura92•
+Siguiendo con las características estructurales del presidencialismo,
+una ya ha sido mencionada al pasar: el presidente concentra en su persona
+los roles de jefe de Estado, de características meramente ceremoniales, y de
+jefe de gobierno, en virtud del cual se desempeña como órgano ejecutivo de
+la nación. N o existe, como en el caso del parlamentarismo, una separación
+de ambos roles en funcionarios diferenciados.
+Asimismo, el carácter colegiado del parlamentarismo contrasta con la
+unjQersonalidad de la estructura del presidencialismo. Esto no se relaciona
+sólo con la unificación de la jefatura de Estado y de gobierno en manos
+de una sola persona, sino principalmente con la relación que se establece
+92 En este sentido, vale la sugerencia de Sartori acerca de que no es conveniente reclasificar
+un sistema por el solo hecho de que alguno de sus elementos no se ajuste estrictamente al tipo ideal,
+a menos que se altere su l6gica sistémica. Sartori, Giovanni: Comparative Constitutional Engineering,
+Mac Millan, Londres, 1994, cap. 5.
+256
+--
+entre el presidente y el resto de los miembros del gobierno, específicamente,
+con los ministros (o secretarios). En el presidencialismo, éstos son designados
+directamente por el presidente, quien tiene la facultad de removerlos
+a su arbitrio. En este sentido, ni siquiera a nivel teórico se supone
+-que el presidente sea unprimus inter pares: tiene una absoluta preeminen~
+Mientras en el parlamentarismo el origen de la legitimidad del primer
+ministro y del resto de los miembros del gabinete es la misma -el parlamento-,.
+aquí el presidente posee una legitimidad directa del pueblo, y los
+ministros de enden sólo de la fi ura del residente or ser él mismo uien
+los elige93 . omo señala Cotta, la estructura co egiada del parlamentarismo
+se enfrenta a otra estructura de dos niveles, propia del presidencialismo:
+el nivel del jefe de Estado/jefe de gobierno, con legitimidad democrática,
+y el nivel de los ministros, con una legitimidad de segundo grad094 •
+Finalmente, existe una estricta incompatibilidad entre el cargo de miembro
+del gobierno (sea el de presidente o el de ministro) y el de miembro de parlamento.
+Así, éste pierde una de las posibilidades de control que posee en el
+parlamentarismo, en la medida en que controla a sus propios miembros.
+La legitimidad popular que implica haber sido investido directamente
+por la ciudadanía; la unificación de la jefatura de Estado y de gobierno en
+manos de una misma persona; el carácter unipersonal de la estructura de gobierno;
+la separación "personal" entre el gobierno y el parlamento; la imposibilidad
+de remover al presidente tanto por parte del congreso como por parte
+de quien le otorga la investidura, el pueblo; todos estos elementos refuerzan
+la centralidad que adquiere el rol presidencial dentro de esta forma de
+gobierno.
+:ij'rente al presidente se levanta, separado, el congreso, sede del poder legislatiyo.
+Si del presidente depende la implementación de las políticas públicas,
+y principalmente la fijación de un plan de gobierno, el congreso es el órgano
+encargado de generar decisiones por medio de la legislación. Aquí se ve
+claramente lo que se denomina "separación de poderes", esto es, la distribución
+de las distintas funciones del poder en órganos institucionales diferenciados:
+ningún funcionario puede ser miembro de ambos poderes en forma
+simultánea; si bien el presidente posee una gran centralidad debido a los elementos
+ya señalados, su talón de Aquiles reside en la necesidad de contar
+con un parlamento que no trabe sus iniciativas; cada poder conserva su independencia
+respecto del otro y al mismo tiempo carece de mecanismos de
+93 En la Constitución chilena de 1925, vigente hasta 1973, y en la Constitución uruguaya de
+1967, aún vigente, los ministros están sujetos a la censura parlamentaria. Sin embargo, su utilización
+es poco frecuente. Sólo en Chile el mecanismo revistió alguna relevancia debido al enfrentamiento
+gobiern%posición, traducido institucionalmente en gobierno vs. Congreso.
+94 Cotta, M. (1988), págs. 339 y 340.
+257
+presión mutua; ni el presidente puede disolver al congreso ni éste."pu~de...removerlo
+mediante un voto de censura95 .
+Sin embargo, si bien la división de poderes o separación de funciones entre
+diferentes órganos institucionales implica la delimitación de esferas de
+acción, aun en 'el caso del presidencialismo la distinción no es en absoluto tajante.
+De alguna manera, a nivel estructural los diferentes gobiernos presidenciales
+se pueden distinguir en función del grado en que el ejecutivo y el
+legislativo se encuentran interrelacionados: la extensión en que la designación
+de algunos altos cargos del Estado (judicial, militar y diplomático), aunque
+realizada por el presidente, deba contar con la aprobación del congreso;
+la existencia las osibilidades de su utilización, de mecanismos como el
+juicio político y el impeachment; la facultad del gobierno e vetar, t6tarü parcialmente,
+las decisiones del congreso; la facultad presidencial de iniciativa
+legislativa, e inclusive, de iniciativa exclusiva en al@nas materias, etcétera.
+Aunque las diferentes forn1as en que se desarrollan y utilizan los citados
+mecanismos introducen modificaciones en el funcionamiento de los diferentes
+casos de presidencialismo, el hecho de que las mismas estén desarrolladas,
+aun de manera embrionaria, en la mayoría de los casos nos permite
+asegurar que, más que un ejemplo de división de poderes, nos encontramos
+en realidad ante una interdependencia por coordinación entre los poderes,
+en la medida en que, al estar el gobierno absolutamente separado del poder
+legislativo, el funcionanúento del esquema institucional depende de la posibilidad
+de articularlos96.
+Junto a estas diferencias estructurales existe otra, ya señalada en el caso
+del parlamentarismo, referida al impacto que tiene el tipo sistema de partidos
+sobre el funcionamiento del gobierno presidencialista y, más precisamente,
+al grado en que altera la separación/interdependencia por coordinación
+de los poderes. En efecto, suponiendo que la estructura de los partidos
+es rígida, en un sistema bipartidista, cuando el partido que ocupa el gobierno
+posee la mayoría del congreso, el modelo funciona de forma muy parecida
+al gobierno de gabinete, especialmente en los casos en que el presidente
+es al mismo tiempo el líder del partido.
+Por el contrario, cuando el congreso y la presidencia son dOIl1~nªdos
+por partidos diferentes, situación improbable en un sistema parlamentario
+y absolutamente imposible en el gobierno de gabinete, el presidencialismo
+95 Los mecanismos de juicio político e impeachment no sólo son poco frecuentes sino que tampoco
+implican una censura por diferencias políticas sino por comisión de delitos o por mal desempeño
+de las funciones públicas. Aunque poco común, recientemente ha sido utilizado para la destitución
+de los presidentes Fernando Collor de Melo (Brasil, 1992) y Carlos Andrés Pérez (Venezuela,
+1993), ambos en medio de acusaciones de corrupción.
+96 Loewenstein, K: op. cit., págs. 54-62.
+258
+está sujeto a tironeos y empates que generan la parálisis de gobierno y,
+eventualmente, conducen a la inestabilidad del sistema. En casos en los
+que, como ocurre en los Estados Unidos, la estructura partidaria es débil,
+estos peligros se reducen ya que, si bien el gobierno no siempre posee un
+mayoría propia, tiene sin embargo la posibilidad de cooptar a legisladores
+de la oposición.
+En situaciones en que no existe una mayoría clara a nivel del congreso,
+debido al carácter multipartidista del sistema de partidos, las posibilidades
+de acción dependen de la capacidad que tenga el gobierno para establecer
+alianzas políticas a nivel congresual. De esta manera, un presidente
+que debe gobernar por un mandato fIjo sin poseer apoyo parlamentario,
+o ante la incertidumbre acerca de si lo podrá conservar, es el elemento que
+se coloca en el centro de la rigidez atribuida a la forma de gobierno presidencialista.
+2.4.3 Semipresídencíalismo
+El semipresidencialismo puede ser considerado como una "forma intermedia"
+entre el presidencialismo y el parlamentarismo. No existe un grap.
+consenso teórico acerca de su consistencia. De hecho, el mismo ha sido denominado
+alternativamente como semipresidencial, semiparlamentarip, presidencialismo
+sui generis, forma de gobierno híbrida, forma de gobierno mixta.
+Incluso Loewenstein considera al semipresidencialismo como una forma
+especial dentro del parlamentarismo, pero sin embargo le otorga diferentes
+etiquetas a la V República francesa (parlamentarismo frenado) y a la República
+de Weimar en Alemania entre 1918 y 1933 (parlamentarismo híbrido).
+Son pocos los países que han adoptado esta forma de gobierno. Además de la
+República de Weimar y la V República Francesa, sólo Austria, Portugal, Fin- '
+landia, Irlanda, Sri Lanka e Islandia lo hicieron.
+Su característica principal es combinar una estructura parlamentaria
+con lp.'elección de un presidente directamente por la ciudadanía Al igual que
+en el parlamentarismo, existe la distinción entre un presidente. (jefe de Estado),
+y un primer ministro (jefe de gobierno) que descansa sobre la confIanza
+del parlamento; los miembros del gabinete deben serlo del parlamento al
+mismo tiempo97, y el gobierno es ejercido por el primer ministro y el resto de
+los miembros del gabinete. En todos los casos (excepto Irlanda) el gobierno
+97 En realidad ésta no es una característica defmitoria, De hecho, en la mitad de los casos actuales
+(Finlandia, Francia e Irlanda) la pertenencia al gabinete es incompatible con el cargo parlamentario,
+259
+es designado de manera implícita, esto es, no necesita de una expresa votación
+sino que basta con la aquiescencia pasiva de los parlamentarios.
+Pero al mismo tiempo, el presidente es elegido por suf~ag~~..2QEular, yde
+esta manera tiene una legitimidad democrática equivalente a,Jª del parlamentQ.
+Si bien no posee todo el poder de su igual en un sistema presidencialista,
+y debe delegar la mayor parte de las acciones gubernamentales en_~l
+. primer ministro y su gabinete, su rol deljefe de Estado deja de ser meramen"
+te ceremonial y simbólico para convertirse en un poder regulador. Eljefe de
+gobierno debe contar incluso con la confianza del parlamel!!9~Ael pres~deEte.
+Después de todo, la fuente de legitimidad del presidente y del congreso es
+")( exactamente la misma.
+De alguna manera, el semipresidencialismo se acerca al dualismo propio
+de las monarquías constitucionales, en las que junto al'dúo rey/parlamento,
+ambos con importantes poderes, coexiste un gabinete que media entre ellos,
+y que depende del apoyo de ambos. Como es obvio, la gran diferencia entre
+ambos modelos se evidencia con sólo comparar la legitimidad del monarca,
+tradicional, con la del presidente, democrática.
+El desempeño concreto de esta forma de gobierno demuestra que el b-ªlance
+de poder entre las fuerzas políticas, junto a las cualidades_I>~rsonal~s
+de los presidentes, influyen en la medida en que subrayan su ra§l~s padamentarías
+o presidenciales. En este sentido, la separación entre el texto
+constitucional y la práctica política es bastante amplia. De hecho, politólogos
+como Sartori aseguran que el concepto de semipresü:léncialismo implica
+ajustarse de una manera demasiado estricta al formato constitucional, ya
+que, según la forma en que realmente funciona, habría que reubicar a cada
+caso comoparlanlentario o como presidencialista98 .
+Las princip~les diferencias entre los países que comparten esta fornla de
+gobierno -y que permiten proceder a la relocalización recientemente aludida-
+puede detectarse en función de tres elementos. El primero se refiere
+concretamente a las características institucionales del mismo en cuan.j;Q alas
+prerrogativas constitucionales otorgadas al presidente: desde el caso,.de Irlanda,
+donde las escasas prerrogativas lo asemejan casi a un jefe de Estado
+parlamentario, hasta casos como Islandia o, principalmente, Finlandiª, clOI!de
+el presidente se convierte de jure en un actor clave del proceso político .
+. El se~ndo elemento es la propensión de los presidentes a la utilización
+de las acultades habilitadas or la constitución. Esto se relaciona, por
+un lado, con la capacidad política de guien ocupa a función presidencial, y
+por otro lado, con las rutinas concretas que se cristalizan en el funcionamiento
+de los sistemas políticos. Por ejemplo, aunque Francia -junto con
+98 Sartori, G.: Comparative ... , op.cit.
+260
+Irlanda- es el país que menos prerrogativas le otorga al presidente, es el
+caso que más se ha acercado a la realidad del presidencialismo. De la mis·
+ma manera, aunque el presidente de Islandia posee gran cantidad de pre·
+rrogativas -sólo superadas por la constitución de Finlandia-, la forma en
+que realmente funciona el gobierno lo acerca casi totalmente a una mecá·
+nica parlamentarista99 .
+. r elemento ue ermite establecer diferencias entre
+ü residencialismo se refiere al balance e o er po- X
+m' s es ecíficamente a la coincidencia de la mayoría presi encial
+con la parlamentaria~loo. En este sentido es posible encontrar, a menos, tres
+interacciones básicas. En la primera el presidente se encuentra en oposición
+con respecto a la mayoría parlamentaria; en consecuencia, posee únicamente
+una función reguladora del proceso político. En este caso se dan fenómenos
+de "cohabitación", como ocurrió en Francia entre 1986 y 1988 Y entre
+1992 y 1995, cuando un presidente socialista (Mitterrand) debió convivir con
+una mayoría parlamentaria, y en consecuencia con un primer ministro, de
+extracción derechista. La función presidencial se asemeja en gran medida a 1
+la del jefe de Estado parlamentario, aunque aquí puede resguardar una fun·
+ción arbitral (reguladora) que sirva de contrapeso político.
+La segunda interacción se da cuando la mayoría en el parlamento, que
+domina al gobierno designando al jefe de gobierno y su gabinete, coincide con
+la presidencial, pero el presidente no es el líder del partido mayoritario. En
+este sentido, el líder del partido mayoritario se convierte en primer ministro,
+haciendo efectivo el rol de jefe de gobierno, mientras que eljefe de Estado se
+convierte meramente en un símbolo, encajando así casi perfect~ente con el
+rol de su par parlamentario.
+Finalmente, cuando el presidente es el líder del partido mayoritario en'
+el parlamento, pasa a tener de hecho un poder sinlliar a su par de cualquier
+país presidencialista. En este caso el gabinete (incluido el primer ministro)
+no pasa de ser en cuanto a su ejecutividad un apéndice del jefe de Estado,
+quien se convierte en el actor que efectivamente ejerce el gobierno. En síntesis,
+es indudable que, a pesar de su especificidad, no son desdeñables los
+argumentos que incitan a la relocalización de los países senlipresidencialis·
+tas dentro de alguna de las formas de gobierno anteriormente desarrolladas.
+99 Duverger, Maurice: Jaque al Rey, EUDEBA, Buenos Aires, pág. 17. No deja de ser un caso
+curioso el de Finlandia. A pesar de que es el país que constitucionalmente le otorga más atribuciones
+al presidente, y el segundo en cuanto a la utilización efectiva, después de Francia, según el
+ordenamiento de Duverger, es el único caso en el que aquél no es elegido estrictamente de manera
+directa, sino a través de un colegio electoral que, además, posee una gran discrecionalidad en cuanto
+a la selección de candidatos.
+100 En esta diferenciación seguimos a Duverger, M.: op. di.
