@@ -1,6 +1,6 @@
 import numpy as np
 first_word=input('ingresa una palabra significativa relacionada con economía (vacio para tomar una palabra al azar):  ')
-gobierno=open("hazzlit.txt",encoding='UTF-8').read()
+gobierno=open("maquiavelo_el_principe.txt",encoding='UTF-8').read()
 
 corpus=gobierno.split()
 
@@ -23,7 +23,7 @@ if first_word == '':
 print(first_word);
 chain=[first_word]
 
-n_words=50
+n_words=100
 
 for i in range(n_words):
     chain.append(np.random.choice(word_dict[chain[-1]]))
